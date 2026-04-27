@@ -1,0 +1,87 @@
+{
+  "generated_from": "http://127.0.0.1:8001/api/v1/transcriptions/upload",
+  "track_count": 9,
+  "tracks": [
+    {
+      "file": "bi_2_unknown_ru.json",
+      "id": "670b80a4-9cc8-4e08-abec-e95b215e22d2",
+      "status": "done",
+      "language": "ru",
+      "word_count": 73,
+      "first_word_start": 20.215,
+      "last_word_end": 221.937
+    },
+    {
+      "file": "coeur_de_pirate_place_de_la_republique_fr.json",
+      "id": "e2cef7ec-b54b-4ee2-ad22-8d1e4cd9f44b",
+      "status": "done",
+      "language": "fr",
+      "word_count": 228,
+      "first_word_start": 18.111,
+      "last_word_end": 238.174
+    },
+    {
+      "file": "miyagi_last_of_us_ru.json",
+      "id": "3a1309cf-6463-440c-bf62-285d4dfbdff5",
+      "status": "done",
+      "language": "ru",
+      "word_count": 283,
+      "first_word_start": 13.333,
+      "last_word_end": 184.93
+    },
+    {
+      "file": "peso_pluma_anitta_bellakeo_es.json",
+      "id": "53118591-e421-4aa2-ae66-81702077e830",
+      "status": "done",
+      "language": "es",
+      "word_count": 430,
+      "first_word_start": 11.239,
+      "last_word_end": 186.1
+    },
+    {
+      "file": "peso_pluma_bruce_wayne_es.json",
+      "id": "5653a451-89f9-4915-8834-d5012cb6af4b",
+      "status": "done",
+      "language": "es",
+      "word_count": 236,
+      "first_word_start": 37.345,
+      "last_word_end": 161.685
+    },
+    {
+      "file": "peso_pluma_solicitado_es.json",
+      "id": "4d670e93-f1ac-4589-aa5e-f7fd5e319faa",
+      "status": "done",
+      "language": "es",
+      "word_count": 207,
+      "first_word_start": 1.873,
+      "last_word_end": 198.695
+    },
+    {
+      "file": "pharaoh_ru.json",
+      "id": "9db05a13-0346-440a-8321-36bb827efd46",
+      "status": "done",
+      "language": "ru",
+      "word_count": 267,
+      "first_word_start": 21.346,
+      "last_word_end": 165.457
+    },
+    {
+      "file": "post_malone_rockstar_en.json",
+      "id": "e5af3ad3-2747-4422-82c2-091f4c4cb69a",
+      "status": "done",
+      "language": "en",
+      "word_count": 443,
+      "first_word_start": 14.998,
+      "last_word_end": 190.848
+    },
+    {
+      "file": "ru_04_unknown_ru.json",
+      "id": "4cc68d05-df48-49af-8c59-a688ce863d87",
+      "status": "done",
+      "language": "ru",
+      "word_count": 354,
+      "first_word_start": 10.56,
+      "last_word_end": 241.202
+    }
+  ]
+}

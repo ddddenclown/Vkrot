@@ -1,0 +1,1705 @@
+{
+    "id": "3a1309cf-6463-440c-bf62-285d4dfbdff5",
+    "status": "done",
+    "language": "ru",
+    "words": [
+        {
+            "word": "\u041d\u043e\u043c\u0435\u0440\u0435\u0432\u0430\u044f",
+            "start": 13.333,
+            "end": 14.033,
+            "confidence": 0.953
+        },
+        {
+            "word": "\u0436\u0438\u0442\u044c",
+            "start": 14.113,
+            "end": 14.334,
+            "confidence": 0.842
+        },
+        {
+            "word": "\u0431\u0435\u0437",
+            "start": 14.354,
+            "end": 14.534,
+            "confidence": 0.993
+        },
+        {
+            "word": "\u044d\u0442\u0438\u0445",
+            "start": 14.594,
+            "end": 14.894,
+            "confidence": 0.86
+        },
+        {
+            "word": "\u043c\u0443\u043c\u0431\u0435\u0440\u0438\u043d\u0430,",
+            "start": 14.934,
+            "end": 15.814,
+            "confidence": 0.757
+        },
+        {
+            "word": "\u0421\u0435\u0431\u044f",
+            "start": 15.914,
+            "end": 16.214,
+            "confidence": 0.841
+        },
+        {
+            "word": "\u0432\u0441\u0435",
+            "start": 16.234,
+            "end": 16.415,
+            "confidence": 0.777
+        },
+        {
+            "word": "\u0442\u043e,",
+            "start": 16.455,
+            "end": 16.595,
+            "confidence": 0.777
+        },
+        {
+            "word": "\u0447\u0442\u043e",
+            "start": 16.635,
+            "end": 16.815,
+            "confidence": 0.988
+        },
+        {
+            "word": "\u0434\u043e\u043b\u0436\u0435\u043d,",
+            "start": 16.855,
+            "end": 17.255,
+            "confidence": 0.882
+        },
+        {
+            "word": "\u0441\u043e\u0445\u0440\u0430\u043d\u044f\u044f",
+            "start": 17.295,
+            "end": 17.975,
+            "confidence": 0.92
+        },
+        {
+            "word": "\u043a\u0440\u0443\u0433",
+            "start": 18.015,
+            "end": 18.235,
+            "confidence": 0.986
+        },
+        {
+            "word": "\u0434\u043e\u043b\u0438\u043d\u0430.",
+            "start": 18.275,
+            "end": 18.796,
+            "confidence": 0.856
+        },
+        {
+            "word": "\u041f\u0440\u043e\u0431\u0435\u0439",
+            "start": 21.926,
+            "end": 22.126,
+            "confidence": 0.215
+        },
+        {
+            "word": "\u0441\u0435\u0431\u044f,",
+            "start": 22.146,
+            "end": 22.487,
+            "confidence": 0.644
+        },
+        {
+            "word": "\u0442\u044b",
+            "start": 22.507,
+            "end": 22.607,
+            "confidence": 0.649
+        },
+        {
+            "word": "\u0432",
+            "start": 22.627,
+            "end": 22.647,
+            "confidence": 0.019
+        },
+        {
+            "word": "\u0440\u043e\u0441\u0442\u043d\u043e\u043c",
+            "start": 22.727,
+            "end": 23.067,
+            "confidence": 0.5
+        },
+        {
+            "word": "\u043f\u0440\u0438\u0431\u0435\u0440\u0435\u0433\u0435,",
+            "start": 23.107,
+            "end": 23.648,
+            "confidence": 0.566
+        },
+        {
+            "word": "\u0442\u044b",
+            "start": 23.688,
+            "end": 23.828,
+            "confidence": 0.627
+        },
+        {
+            "word": "\u0432",
+            "start": 23.848,
+            "end": 24.028,
+            "confidence": 0.795
+        },
+        {
+            "word": "\u043f\u043b\u0430\u043a\u0443.",
+            "start": 24.048,
+            "end": 25.65,
+            "confidence": 0.463
+        },
+        {
+            "word": "\u0421\u043c\u043e\u0433",
+            "start": 25.71,
+            "end": 25.99,
+            "confidence": 0.885
+        },
+        {
+            "word": "\u044d\u043b\u0435\u043c\u0435\u043d\u0442\u044b,",
+            "start": 26.03,
+            "end": 26.551,
+            "confidence": 0.812
+        },
+        {
+            "word": "\u043d\u0451\u0441",
+            "start": 26.591,
+            "end": 26.751,
+            "confidence": 0.809
+        },
+        {
+            "word": "\u0442\u0435\u0431\u0435,",
+            "start": 26.811,
+            "end": 27.131,
+            "confidence": 0.816
+        },
+        {
+            "word": "\u044f",
+            "start": 27.211,
+            "end": 27.291,
+            "confidence": 0.986
+        },
+        {
+            "word": "\u0441\u0443\u0433\u0430\u0434\u0430\u0440\u0438\u043b",
+            "start": 27.351,
+            "end": 27.952,
+            "confidence": 0.834
+        },
+        {
+            "word": "\u0432\u0430\u043c.",
+            "start": 28.012,
+            "end": 28.312,
+            "confidence": 0.872
+        },
+        {
+            "word": "\u0411\u0430\u0431\u043b\u0430\u0433\u043e",
+            "start": 28.352,
+            "end": 28.873,
+            "confidence": 0.729
+        },
+        {
+            "word": "\u0436\u0438\u0442\u044c,",
+            "start": 28.893,
+            "end": 29.113,
+            "confidence": 0.726
+        },
+        {
+            "word": "\u0437\u043d\u0430\u0447\u0438\u0442",
+            "start": 29.133,
+            "end": 29.514,
+            "confidence": 0.817
+        },
+        {
+            "word": "\u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u0442\u044c",
+            "start": 29.554,
+            "end": 30.274,
+            "confidence": 0.653
+        },
+        {
+            "word": "\u0441\u0435\u0431\u044f",
+            "start": 30.314,
+            "end": 30.655,
+            "confidence": 0.75
+        },
+        {
+            "word": "\u043c\u044b\u0444\u0438\u0431\u0440\u044b.",
+            "start": 30.715,
+            "end": 31.335,
+            "confidence": 0.842
+        },
+        {
+            "word": "\u0414\u0430\u0432\u0430\u0439,",
+            "start": 31.495,
+            "end": 31.816,
+            "confidence": 0.7
+        },
+        {
+            "word": "\u0434\u0435\u043a\u043f\u0440\u043e\u043a,",
+            "start": 31.836,
+            "end": 32.276,
+            "confidence": 0.63
+        },
+        {
+            "word": "\u0437\u0430\u043b\u0435\u0447\u0438\u043c,",
+            "start": 32.296,
+            "end": 32.817,
+            "confidence": 0.556
+        },
+        {
+            "word": "\u0430",
+            "start": 32.997,
+            "end": 33.017,
+            "confidence": 0.006
+        },
+        {
+            "word": "\u043d\u0430\u043d\u0435\u0441",
+            "start": 33.057,
+            "end": 33.377,
+            "confidence": 0.605
+        },
+        {
+            "word": "\u0441\u043e\u043c\u043d\u0435\u043d\u043d\u043e",
+            "start": 33.397,
+            "end": 33.978,
+            "confidence": 0.625
+        },
+        {
+            "word": "\u0431\u0443\u0434\u0435\u043c.",
+            "start": 33.998,
+            "end": 34.378,
+            "confidence": 0.593
+        },
+        {
+            "word": "\u0420\u0430\u0434\u043e\u043c,",
+            "start": 34.438,
+            "end": 34.779,
+            "confidence": 0.416
+        },
+        {
+            "word": "\u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0439",
+            "start": 34.799,
+            "end": 35.339,
+            "confidence": 0.6
+        },
+        {
+            "word": "\u044f,",
+            "start": 35.379,
+            "end": 35.539,
+            "confidence": 0.452
+        },
+        {
+            "word": "\u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0439",
+            "start": 35.559,
+            "end": 36.12,
+            "confidence": 0.629
+        },
+        {
+            "word": "\u044f,",
+            "start": 36.18,
+            "end": 36.32,
+            "confidence": 0.667
+        },
+        {
+            "word": "\u043a\u0440\u0430\u0441\u043e\u0442\u0443.",
+            "start": 36.34,
+            "end": 37.241,
+            "confidence": 0.648
+        },
+        {
+            "word": "\u0417\u0434\u0435\u0441\u044c",
+            "start": 37.461,
+            "end": 37.922,
+            "confidence": 0.583
+        },
+        {
+            "word": "\u043e\u043d\u0430",
+            "start": 37.942,
+            "end": 38.282,
+            "confidence": 0.777
+        },
+        {
+            "word": "\u0432\u043e\u0442,",
+            "start": 38.362,
+            "end": 38.622,
+            "confidence": 0.498
+        },
+        {
+            "word": "\u0437\u0434\u0435\u0441\u044c",
+            "start": 38.702,
+            "end": 39.103,
+            "confidence": 0.641
+        },
+        {
+            "word": "\u043e\u043d\u0430",
+            "start": 39.143,
+            "end": 39.483,
+            "confidence": 0.827
+        },
+        {
+            "word": "\u0432\u043e\u0442.",
+            "start": 39.583,
+            "end": 39.844,
+            "confidence": 0.346
+        },
+        {
+            "word": "\u0421\u043e\u0437\u0434\u0430\u043d\u0430",
+            "start": 39.884,
+            "end": 40.544,
+            "confidence": 0.827
+        },
+        {
+            "word": "\u0434\u043b\u044f",
+            "start": 40.584,
+            "end": 40.764,
+            "confidence": 0.908
+        },
+        {
+            "word": "\u0442\u0435\u0431\u044f,",
+            "start": 40.824,
+            "end": 41.165,
+            "confidence": 0.681
+        },
+        {
+            "word": "\u0434\u0430",
+            "start": 41.205,
+            "end": 41.345,
+            "confidence": 0.772
+        },
+        {
+            "word": "\u0431\u044b\u0441\u0442\u0440\u043e",
+            "start": 41.385,
+            "end": 41.765,
+            "confidence": 0.559
+        },
+        {
+            "word": "\u043e\u0448\u0438\u0431\u0438\u0441\u044c,",
+            "start": 41.845,
+            "end": 42.366,
+            "confidence": 0.472
+        },
+        {
+            "word": "\u0447\u0442\u043e",
+            "start": 42.386,
+            "end": 42.566,
+            "confidence": 0.833
+        },
+        {
+            "word": "\u043d\u0435",
+            "start": 42.666,
+            "end": 42.886,
+            "confidence": 0.87
+        },
+        {
+            "word": "\u0443\u0433\u043e\u0434\u043d\u043e",
+            "start": 42.906,
+            "end": 43.387,
+            "confidence": 0.716
+        },
+        {
+            "word": "\u043d\u0430\u043c.",
+            "start": 43.427,
+            "end": 43.727,
+            "confidence": 0.527
+        },
+        {
+            "word": "\u0414\u0435\u043d\u044c\u0441\u044f,",
+            "start": 43.767,
+            "end": 44.368,
+            "confidence": 0.752
+        },
+        {
+            "word": "\u043c\u0435\u043b\u043e\u0434\u0438\u044f.",
+            "start": 44.408,
+            "end": 45.509,
+            "confidence": 0.861
+        },
+        {
+            "word": "\u041f\u0438\u043d\u0447\u0430\u043b\u0438",
+            "start": 45.509,
+            "end": 45.989,
+            "confidence": 0.672
+        },
+        {
+            "word": "\u0431\u044b,",
+            "start": 46.049,
+            "end": 46.209,
+            "confidence": 0.596
+        },
+        {
+            "word": "\u043a\u0443\u0434\u0430",
+            "start": 46.25,
+            "end": 46.55,
+            "confidence": 0.65
+        },
+        {
+            "word": "\u0442\u0443\u0442",
+            "start": 46.61,
+            "end": 46.77,
+            "confidence": 0.609
+        },
+        {
+            "word": "\u043d\u0438\u043a\u0443\u0434\u0430",
+            "start": 46.87,
+            "end": 47.37,
+            "confidence": 0.604
+        },
+        {
+            "word": "\u043d\u0435",
+            "start": 47.45,
+            "end": 47.57,
+            "confidence": 0.732
+        },
+        {
+            "word": "\u0434\u0435\u0442\u044c\u0441\u044f,",
+            "start": 47.65,
+            "end": 48.151,
+            "confidence": 0.67
+        },
+        {
+            "word": "\u0440\u0430\u0437\u0434\u0435\u043b\u0438\u043c",
+            "start": 48.191,
+            "end": 48.931,
+            "confidence": 0.779
+        },
+        {
+            "word": "\u0435\u0435",
+            "start": 48.951,
+            "end": 49.131,
+            "confidence": 0.758
+        },
+        {
+            "word": "\u043f\u043e\u043f\u043e\u043b\u0430\u043c.",
+            "start": 49.172,
+            "end": 49.792,
+            "confidence": 0.799
+        },
+        {
+            "word": "\u0417\u0434\u0435\u0441\u044c",
+            "start": 49.812,
+            "end": 50.392,
+            "confidence": 0.837
+        },
+        {
+            "word": "\u044f",
+            "start": 50.432,
+            "end": 50.532,
+            "confidence": 0.73
+        },
+        {
+            "word": "\u043d\u0430",
+            "start": 50.572,
+            "end": 50.733,
+            "confidence": 0.899
+        },
+        {
+            "word": "\u0432\u043e\u0434,",
+            "start": 50.873,
+            "end": 51.093,
+            "confidence": 0.481
+        },
+        {
+            "word": "\u0437\u0434\u0435\u0441\u044c",
+            "start": 51.193,
+            "end": 51.613,
+            "confidence": 0.659
+        },
+        {
+            "word": "\u044f",
+            "start": 51.673,
+            "end": 51.773,
+            "confidence": 0.655
+        },
+        {
+            "word": "\u043d\u0430",
+            "start": 51.793,
+            "end": 51.933,
+            "confidence": 0.832
+        },
+        {
+            "word": "\u0432\u043e\u0434.",
+            "start": 51.993,
+            "end": 52.274,
+            "confidence": 0.689
+        },
+        {
+            "word": "\u0421\u043e\u0437\u0434\u0430\u043d\u043d\u043e",
+            "start": 52.314,
+            "end": 53.014,
+            "confidence": 0.694
+        },
+        {
+            "word": "\u0434\u043b\u044f",
+            "start": 53.074,
+            "end": 53.234,
+            "confidence": 0.723
+        },
+        {
+            "word": "\u0442\u0435\u0431\u044f,",
+            "start": 53.294,
+            "end": 53.615,
+            "confidence": 0.568
+        },
+        {
+            "word": "\u0437\u0430\u0445\u043e\u0434,",
+            "start": 53.655,
+            "end": 53.975,
+            "confidence": 0.462
+        },
+        {
+            "word": "\u0432\u0441\u0435",
+            "start": 53.995,
+            "end": 54.175,
+            "confidence": 0.605
+        },
+        {
+            "word": "\u0440\u043e\u0436\u0438,",
+            "start": 54.295,
+            "end": 54.595,
+            "confidence": 0.593
+        },
+        {
+            "word": "\u0431\u0438\u0442\u044c,",
+            "start": 54.615,
+            "end": 54.815,
+            "confidence": 0.61
+        },
+        {
+            "word": "\u0447\u0442\u043e",
+            "start": 54.855,
+            "end": 55.036,
+            "confidence": 0.983
+        },
+        {
+            "word": "\u043d\u0435",
+            "start": 55.116,
+            "end": 55.356,
+            "confidence": 0.896
+        },
+        {
+            "word": "\u0443\u0433\u043e\u0434\u043d\u043e",
+            "start": 55.376,
+            "end": 55.816,
+            "confidence": 0.755
+        },
+        {
+            "word": "\u043d\u0430\u043c.",
+            "start": 55.876,
+            "end": 56.136,
+            "confidence": 0.612
+        },
+        {
+            "word": "\u041b\u0435\u0439\u0441\u044f",
+            "start": 56.176,
+            "end": 56.657,
+            "confidence": 0.803
+        },
+        {
+            "word": "\u043c\u0435\u043b\u043e\u0434\u0438\u044f.",
+            "start": 56.797,
+            "end": 57.717,
+            "confidence": 0.869
+        },
+        {
+            "word": "\u041f\u0438\u043d\u0447\u0430\u043b\u0438",
+            "start": 57.978,
+            "end": 58.518,
+            "confidence": 0.773
+        },
+        {
+            "word": "\u0431\u044b,",
+            "start": 58.558,
+            "end": 58.698,
+            "confidence": 0.584
+        },
+        {
+            "word": "\u043a\u0443\u0434\u0430",
+            "start": 58.718,
+            "end": 59.058,
+            "confidence": 0.7
+        },
+        {
+            "word": "\u0442\u0443\u0442",
+            "start": 59.098,
+            "end": 59.258,
+            "confidence": 0.591
+        },
+        {
+            "word": "\u043d\u0438\u043a\u0443\u0434\u0430",
+            "start": 59.319,
+            "end": 59.859,
+            "confidence": 0.657
+        },
+        {
+            "word": "\u043d\u0435",
+            "start": 59.919,
+            "end": 60.059,
+            "confidence": 0.806
+        },
+        {
+            "word": "\u0434\u0435\u0442\u044c\u0441\u044f,",
+            "start": 60.139,
+            "end": 60.599,
+            "confidence": 0.682
+        },
+        {
+            "word": "\u0440\u0430\u0437\u0434\u0435\u043b\u0438\u043c",
+            "start": 60.619,
+            "end": 61.36,
+            "confidence": 0.725
+        },
+        {
+            "word": "\u0435\u0435",
+            "start": 61.4,
+            "end": 61.6,
+            "confidence": 0.812
+        },
+        {
+            "word": "\u043f\u043e\u043f\u043e\u043b\u0430\u043c.",
+            "start": 61.64,
+            "end": 62.301,
+            "confidence": 0.786
+        },
+        {
+            "word": "\u041b\u0430-\u043b\u044f-\u043b\u044f-\u043b\u044f,",
+            "start": 63.237,
+            "end": 64.498,
+            "confidence": 0.554
+        },
+        {
+            "word": "\u043e\u0442\u043f\u0443\u0441\u0442\u0438",
+            "start": 64.538,
+            "end": 64.838,
+            "confidence": 0.589
+        },
+        {
+            "word": "\u0438",
+            "start": 64.858,
+            "end": 64.878,
+            "confidence": 0.003
+        },
+        {
+            "word": "\u043e\u0442\u0441\u0438\u0434\u0438",
+            "start": 64.918,
+            "end": 65.698,
+            "confidence": 0.742
+        },
+        {
+            "word": "\u0441\u0432\u043e\u0438",
+            "start": 65.778,
+            "end": 66.038,
+            "confidence": 0.956
+        },
+        {
+            "word": "\u0440\u0430\u0441\u043f\u0443\u0442\u043d\u044b\u0435",
+            "start": 66.078,
+            "end": 66.839,
+            "confidence": 0.949
+        },
+        {
+            "word": "\u0433\u043b\u0430\u0437\u0430",
+            "start": 66.879,
+            "end": 67.919,
+            "confidence": 0.929
+        },
+        {
+            "word": "\u041e\u0442",
+            "start": 68.219,
+            "end": 68.299,
+            "confidence": 0.328
+        },
+        {
+            "word": "\u043d\u0430\u0441,",
+            "start": 68.319,
+            "end": 69.4,
+            "confidence": 0.648
+        },
+        {
+            "word": "\u043b\u0430-\u043b\u044f-\u043b\u044f-\u043b\u044f,",
+            "start": 69.44,
+            "end": 70.12,
+            "confidence": 0.414
+        },
+        {
+            "word": "\u0432\u0441\u0442\u0430\u043d\u0443",
+            "start": 70.14,
+            "end": 71.141,
+            "confidence": 0.59
+        },
+        {
+            "word": "\u0441\u0442\u0435\u043d\u0430",
+            "start": 71.201,
+            "end": 71.781,
+            "confidence": 0.891
+        },
+        {
+            "word": "\u0438",
+            "start": 71.821,
+            "end": 71.881,
+            "confidence": 0.872
+        },
+        {
+            "word": "\u043e\u0442\u0443\u043c\u0435\u0435\u0442",
+            "start": 71.921,
+            "end": 72.541,
+            "confidence": 0.821
+        },
+        {
+            "word": "\u043d\u0430\u043c",
+            "start": 72.581,
+            "end": 72.801,
+            "confidence": 0.882
+        },
+        {
+            "word": "\u0434\u043e",
+            "start": 72.841,
+            "end": 72.921,
+            "confidence": 0.559
+        },
+        {
+            "word": "\u043a\u043e\u043d\u0446\u0430",
+            "start": 72.981,
+            "end": 74.882,
+            "confidence": 0.977
+        },
+        {
+            "word": "\u042f",
+            "start": 74.942,
+            "end": 75.022,
+            "confidence": 0.673
+        },
+        {
+            "word": "\u0432\u0441\u0435",
+            "start": 75.242,
+            "end": 75.442,
+            "confidence": 0.72
+        },
+        {
+            "word": "\u0432\u0430\u043c",
+            "start": 75.482,
+            "end": 75.823,
+            "confidence": 0.841
+        },
+        {
+            "word": "\u0432\u043e\u0437\u044c\u043c\u0443",
+            "start": 75.863,
+            "end": 76.203,
+            "confidence": 0.57
+        },
+        {
+            "word": "\u0438",
+            "start": 76.263,
+            "end": 76.423,
+            "confidence": 0.799
+        },
+        {
+            "word": "\u0446\u0435\u043d\u0443,",
+            "start": 76.443,
+            "end": 76.663,
+            "confidence": 0.27
+        },
+        {
+            "word": "\u0438",
+            "start": 76.743,
+            "end": 76.923,
+            "confidence": 0.839
+        },
+        {
+            "word": "\u0432\u043b\u044e\u0431\u043b\u044e,",
+            "start": 76.963,
+            "end": 78.024,
+            "confidence": 0.619
+        },
+        {
+            "word": "\u0441\u043e\u043b\u043d\u0446\u0435",
+            "start": 78.044,
+            "end": 78.524,
+            "confidence": 0.737
+        },
+        {
+            "word": "\u043b\u0443\u0447\u0448\u0438\u043c",
+            "start": 78.564,
+            "end": 79.044,
+            "confidence": 0.736
+        },
+        {
+            "word": "\u0441\u0432\u0435\u0442\u043e\u043c",
+            "start": 79.124,
+            "end": 79.744,
+            "confidence": 0.82
+        },
+        {
+            "word": "\u043d\u0430",
+            "start": 79.784,
+            "end": 79.904,
+            "confidence": 0.89
+        },
+        {
+            "word": "\u0441\u0442\u0430\u043a\u0430\u0442\u0435",
+            "start": 79.924,
+            "end": 80.645,
+            "confidence": 0.743
+        },
+        {
+            "word": "\u041b\u0435\u0442\u0438,",
+            "start": 80.685,
+            "end": 81.525,
+            "confidence": 0.677
+        },
+        {
+            "word": "\u041b\u0438\u0440\u0430,",
+            "start": 81.545,
+            "end": 82.245,
+            "confidence": 0.656
+        },
+        {
+            "word": "\u0441\u0438\u043b\u043d\u044b\u0439",
+            "start": 82.305,
+            "end": 82.806,
+            "confidence": 0.619
+        },
+        {
+            "word": "\u0436\u0435\u043b\u0435\u0437\u044c,",
+            "start": 82.886,
+            "end": 83.466,
+            "confidence": 0.608
+        },
+        {
+            "word": "\u0434\u0430\u0439",
+            "start": 83.486,
+            "end": 83.846,
+            "confidence": 0.793
+        },
+        {
+            "word": "\u043d\u0430\u043c",
+            "start": 83.886,
+            "end": 84.206,
+            "confidence": 0.731
+        },
+        {
+            "word": "\u0432\u044b\u0439\u0442\u0438",
+            "start": 84.266,
+            "end": 84.867,
+            "confidence": 0.882
+        },
+        {
+            "word": "\u0438\u0437",
+            "start": 84.887,
+            "end": 84.987,
+            "confidence": 0.558
+        },
+        {
+            "word": "\u043d\u0435\u0434\u0435\u043b\u044c",
+            "start": 85.007,
+            "end": 85.347,
+            "confidence": 0.398
+        },
+        {
+            "word": "\u043c\u0438\u0440\u0430,",
+            "start": 85.427,
+            "end": 85.947,
+            "confidence": 0.708
+        },
+        {
+            "word": "\u0442\u044b",
+            "start": 85.987,
+            "end": 86.187,
+            "confidence": 0.824
+        },
+        {
+            "word": "\u043c\u043e\u0439",
+            "start": 86.227,
+            "end": 86.527,
+            "confidence": 0.679
+        },
+        {
+            "word": "\u0440\u0430\u0439",
+            "start": 86.567,
+            "end": 86.887,
+            "confidence": 0.485
+        },
+        {
+            "word": "\u0413\u043e\u0440\u044b",
+            "start": 88.448,
+            "end": 88.768,
+            "confidence": 0.99
+        },
+        {
+            "word": "\u043d\u0430\u0432\u0438\u0441\u043b\u0438",
+            "start": 88.788,
+            "end": 89.348,
+            "confidence": 0.85
+        },
+        {
+            "word": "\u043d\u0430\u0434\u043e",
+            "start": 89.388,
+            "end": 89.649,
+            "confidence": 0.896
+        },
+        {
+            "word": "\u043c\u043d\u043e\u0439",
+            "start": 89.669,
+            "end": 90.209,
+            "confidence": 0.976
+        },
+        {
+            "word": "\u0421\u0442\u0430\u043b\u0438",
+            "start": 90.289,
+            "end": 90.669,
+            "confidence": 0.986
+        },
+        {
+            "word": "\u043a\u0430\u043a",
+            "start": 90.709,
+            "end": 90.909,
+            "confidence": 0.84
+        },
+        {
+            "word": "\u0432\u0435\u043b\u0438\u043a\u0430\u043d\u044b",
+            "start": 90.949,
+            "end": 91.849,
+            "confidence": 0.982
+        },
+        {
+            "word": "\u0422\u0443\u0447\u0430",
+            "start": 91.889,
+            "end": 92.229,
+            "confidence": 0.982
+        },
+        {
+            "word": "\u0437\u0430\u043a\u0440\u044b\u043b\u0438",
+            "start": 92.269,
+            "end": 92.81,
+            "confidence": 0.96
+        },
+        {
+            "word": "\u0432\u0438\u0434",
+            "start": 92.87,
+            "end": 93.23,
+            "confidence": 0.87
+        },
+        {
+            "word": "\u041e\u0442\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u044e\u0442\u0441\u044f",
+            "start": 93.27,
+            "end": 94.29,
+            "confidence": 0.972
+        },
+        {
+            "word": "\u043f\u043b\u0430\u043d\u044b",
+            "start": 94.35,
+            "end": 94.87,
+            "confidence": 0.92
+        },
+        {
+            "word": "\u041c\u044b",
+            "start": 94.89,
+            "end": 94.93,
+            "confidence": 0.001
+        },
+        {
+            "word": "\u0432",
+            "start": 94.99,
+            "end": 95.03,
+            "confidence": 0.989
+        },
+        {
+            "word": "\u0443\u043c\u0435\u0440\u0435\u043d\u043d\u043e\u043c",
+            "start": 95.07,
+            "end": 95.691,
+            "confidence": 0.897
+        },
+        {
+            "word": "\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0438",
+            "start": 95.731,
+            "end": 96.491,
+            "confidence": 0.938
+        },
+        {
+            "word": "\u0414\u0435\u043b\u0430\u0435\u043c",
+            "start": 96.591,
+            "end": 97.091,
+            "confidence": 0.938
+        },
+        {
+            "word": "\u043a\u0430\u043a",
+            "start": 97.131,
+            "end": 97.411,
+            "confidence": 0.944
+        },
+        {
+            "word": "\u0438",
+            "start": 97.431,
+            "end": 97.471,
+            "confidence": 0.599
+        },
+        {
+            "word": "\u0440\u0430\u043d\u044c\u0448\u0435",
+            "start": 97.531,
+            "end": 97.911,
+            "confidence": 0.965
+        },
+        {
+            "word": "\u041d\u043e",
+            "start": 97.932,
+            "end": 98.032,
+            "confidence": 0.704
+        },
+        {
+            "word": "\u043d\u0435",
+            "start": 98.072,
+            "end": 98.212,
+            "confidence": 0.816
+        },
+        {
+            "word": "\u0444\u0430\u043a\u0442,",
+            "start": 98.252,
+            "end": 98.472,
+            "confidence": 0.464
+        },
+        {
+            "word": "\u0447\u0442\u043e",
+            "start": 98.512,
+            "end": 98.672,
+            "confidence": 0.873
+        },
+        {
+            "word": "\u043f\u043e\u0441\u043b\u0435",
+            "start": 98.712,
+            "end": 99.052,
+            "confidence": 0.835
+        },
+        {
+            "word": "\u0440\u0438\u0442\u0443\u0430\u043b\u0430",
+            "start": 99.132,
+            "end": 99.732,
+            "confidence": 0.86
+        },
+        {
+            "word": "\u0421\u043d\u043e\u0432\u0430",
+            "start": 99.812,
+            "end": 100.192,
+            "confidence": 0.918
+        },
+        {
+            "word": "\u0431\u0443\u0434\u0435\u0442",
+            "start": 100.252,
+            "end": 100.552,
+            "confidence": 0.958
+        },
+        {
+            "word": "\u043f\u043b\u0430\u043c\u044f",
+            "start": 100.592,
+            "end": 100.993,
+            "confidence": 0.682
+        },
+        {
+            "word": "\u042f",
+            "start": 101.073,
+            "end": 101.133,
+            "confidence": 0.627
+        },
+        {
+            "word": "\u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439",
+            "start": 101.213,
+            "end": 101.753,
+            "confidence": 0.946
+        },
+        {
+            "word": "\u0447\u0435\u043b\u043e\u0432\u0435\u043a",
+            "start": 101.813,
+            "end": 102.753,
+            "confidence": 0.977
+        },
+        {
+            "word": "\u0412",
+            "start": 102.793,
+            "end": 102.833,
+            "confidence": 0.868
+        },
+        {
+            "word": "\u044d\u0442\u043e\u043c",
+            "start": 102.873,
+            "end": 103.153,
+            "confidence": 0.912
+        },
+        {
+            "word": "\u043e\u0433\u0440\u043e\u043c\u043d\u043e\u043c",
+            "start": 103.193,
+            "end": 103.694,
+            "confidence": 0.952
+        },
+        {
+            "word": "\u0441\u0435\u0442\u0438",
+            "start": 103.794,
+            "end": 104.334,
+            "confidence": 0.964
+        },
+        {
+            "word": "\u0412\u0435\u0447\u043d\u0430\u044f",
+            "start": 104.394,
+            "end": 104.894,
+            "confidence": 0.865
+        },
+        {
+            "word": "\u0441\u0443\u0435\u0442\u0430",
+            "start": 104.994,
+            "end": 105.874,
+            "confidence": 0.965
+        },
+        {
+            "word": "\u041c\u0443\u0437\u044b\u043a\u0430",
+            "start": 105.934,
+            "end": 106.475,
+            "confidence": 0.936
+        },
+        {
+            "word": "\u043d\u0430",
+            "start": 106.515,
+            "end": 106.635,
+            "confidence": 0.622
+        },
+        {
+            "word": "\u0440\u0435\u043a\u0432\u0438\u0442\u0435",
+            "start": 106.695,
+            "end": 107.795,
+            "confidence": 0.982
+        },
+        {
+            "word": "\u0417\u0430",
+            "start": 107.855,
+            "end": 107.975,
+            "confidence": 0.999
+        },
+        {
+            "word": "\u043b\u0435\u0447\u044c",
+            "start": 108.035,
+            "end": 108.295,
+            "confidence": 0.871
+        },
+        {
+            "word": "\u043d\u0430",
+            "start": 108.335,
+            "end": 108.435,
+            "confidence": 0.804
+        },
+        {
+            "word": "\u0434\u043d\u043e",
+            "start": 108.475,
+            "end": 108.995,
+            "confidence": 0.954
+        },
+        {
+            "word": "\u0422\u043e\u0447\u043d\u043e",
+            "start": 109.055,
+            "end": 109.496,
+            "confidence": 0.966
+        },
+        {
+            "word": "\u0443\u0436\u0435",
+            "start": 109.536,
+            "end": 109.736,
+            "confidence": 0.975
+        },
+        {
+            "word": "\u043d\u0435",
+            "start": 109.796,
+            "end": 109.936,
+            "confidence": 0.886
+        },
+        {
+            "word": "\u0432\u044b\u0445\u043e\u0434",
+            "start": 109.976,
+            "end": 110.436,
+            "confidence": 0.825
+        },
+        {
+            "word": "\u0418",
+            "start": 110.456,
+            "end": 110.476,
+            "confidence": 0.021
+        },
+        {
+            "word": "\u0441\u043a\u043e\u043b\u044c\u043a\u043e",
+            "start": 110.516,
+            "end": 110.956,
+            "confidence": 0.881
+        },
+        {
+            "word": "\u0440\u044f\u0434\u043e\u043c",
+            "start": 110.996,
+            "end": 111.316,
+            "confidence": 0.988
+        },
+        {
+            "word": "\u0441\u043e",
+            "start": 111.376,
+            "end": 111.496,
+            "confidence": 0.754
+        },
+        {
+            "word": "\u043c\u043d\u043e\u0439",
+            "start": 111.556,
+            "end": 111.916,
+            "confidence": 0.804
+        },
+        {
+            "word": "\u0422\u0430\u043a\u0438\u0445",
+            "start": 111.956,
+            "end": 112.357,
+            "confidence": 0.914
+        },
+        {
+            "word": "\u0436\u0435",
+            "start": 112.397,
+            "end": 112.497,
+            "confidence": 0.842
+        },
+        {
+            "word": "\u0443\u0431\u0438\u0442\u044b\u0445",
+            "start": 112.557,
+            "end": 113.037,
+            "confidence": 0.997
+        },
+        {
+            "word": "\u0431\u044b\u0442\u0430\u043c",
+            "start": 113.097,
+            "end": 113.477,
+            "confidence": 0.794
+        },
+        {
+            "word": "\u0414\u0430\u0440\u044f\u0436\u0430\u0435\u043c",
+            "start": 113.517,
+            "end": 114.237,
+            "confidence": 0.78
+        },
+        {
+            "word": "\u0442\u043e\u043b\u044c\u043a\u043e",
+            "start": 114.257,
+            "end": 114.657,
+            "confidence": 0.59
+        },
+        {
+            "word": "\u0432\u0435\u0440\u0443",
+            "start": 114.677,
+            "end": 114.958,
+            "confidence": 0.601
+        },
+        {
+            "word": "\u0432",
+            "start": 114.998,
+            "end": 115.018,
+            "confidence": 0.273
+        },
+        {
+            "word": "\u0440\u0430\u0431\u043e\u0442",
+            "start": 115.058,
+            "end": 115.458,
+            "confidence": 0.522
+        },
+        {
+            "word": "\u042f",
+            "start": 116.498,
+            "end": 116.618,
+            "confidence": 0.899
+        },
+        {
+            "word": "\u043d\u0435",
+            "start": 116.658,
+            "end": 116.778,
+            "confidence": 0.768
+        },
+        {
+            "word": "\u0443\u0441\u0442\u0430\u043d\u0443",
+            "start": 116.838,
+            "end": 117.338,
+            "confidence": 0.929
+        },
+        {
+            "word": "\u043f\u043e\u0432\u0442\u043e\u0440\u044f\u0442\u044c",
+            "start": 117.378,
+            "end": 117.979,
+            "confidence": 0.854
+        },
+        {
+            "word": "\u043f\u0440\u043e\u0441\u0442\u044b\u0435",
+            "start": 118.019,
+            "end": 118.539,
+            "confidence": 0.961
+        },
+        {
+            "word": "\u043c\u044b\u0441\u043b\u0438.",
+            "start": 118.599,
+            "end": 119.679,
+            "confidence": 0.93
+        },
+        {
+            "word": "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0435\u043c",
+            "start": 119.719,
+            "end": 120.84,
+            "confidence": 0.783
+        },
+        {
+            "word": "\u0438",
+            "start": 120.96,
+            "end": 121.04,
+            "confidence": 0.905
+        },
+        {
+            "word": "\u043c\u0430\u043d\u0446\u0435\u043b\u043b\u0430\u0437.",
+            "start": 121.1,
+            "end": 122.621,
+            "confidence": 0.518
+        },
+        {
+            "word": "\u041d\u0438\u043a\u0442\u043e",
+            "start": 122.661,
+            "end": 122.981,
+            "confidence": 0.987
+        },
+        {
+            "word": "\u043d\u0435",
+            "start": 123.041,
+            "end": 123.141,
+            "confidence": 0.918
+        },
+        {
+            "word": "\u0432\u043f\u0440\u0430\u0432\u0435",
+            "start": 123.161,
+            "end": 123.621,
+            "confidence": 0.977
+        },
+        {
+            "word": "\u043e\u0441\u0443\u0436\u0434\u0430\u0442\u044c",
+            "start": 123.681,
+            "end": 124.321,
+            "confidence": 0.869
+        },
+        {
+            "word": "\u043c\u043e\u0438",
+            "start": 124.361,
+            "end": 124.641,
+            "confidence": 0.936
+        },
+        {
+            "word": "\u043e\u0448\u0438\u0431\u043a\u0438.",
+            "start": 124.681,
+            "end": 125.762,
+            "confidence": 0.992
+        },
+        {
+            "word": "\u0413\u043e\u0440\u044b",
+            "start": 125.822,
+            "end": 126.122,
+            "confidence": 0.939
+        },
+        {
+            "word": "\u043d\u0430\u0432\u0438\u0441\u043b\u0438",
+            "start": 126.182,
+            "end": 126.742,
+            "confidence": 0.846
+        },
+        {
+            "word": "\u043d\u0430\u0434\u043e",
+            "start": 126.782,
+            "end": 127.042,
+            "confidence": 0.792
+        },
+        {
+            "word": "\u043c\u043d\u043e\u0439.",
+            "start": 127.082,
+            "end": 127.623,
+            "confidence": 0.71
+        },
+        {
+            "word": "\u0412\u0441\u0442\u0430\u043b\u0438",
+            "start": 127.643,
+            "end": 128.043,
+            "confidence": 0.944
+        },
+        {
+            "word": "\u043a\u0430\u043a",
+            "start": 128.103,
+            "end": 128.283,
+            "confidence": 0.988
+        },
+        {
+            "word": "\u0432\u0435\u043b\u0438\u043a\u0430\u043d\u044b.",
+            "start": 128.343,
+            "end": 129.223,
+            "confidence": 0.977
+        },
+        {
+            "word": "\u0421\u043e\u0446\u0438\u0443\u043c",
+            "start": 129.283,
+            "end": 129.764,
+            "confidence": 0.847
+        },
+        {
+            "word": "\u0432",
+            "start": 129.804,
+            "end": 129.844,
+            "confidence": 0.972
+        },
+        {
+            "word": "\u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0438.",
+            "start": 129.884,
+            "end": 130.724,
+            "confidence": 0.895
+        },
+        {
+            "word": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+            "start": 130.804,
+            "end": 131.304,
+            "confidence": 0.979
+        },
+        {
+            "word": "\u043f\u0440\u0430\u0432\u044f\u0442",
+            "start": 131.364,
+            "end": 131.764,
+            "confidence": 0.697
+        },
+        {
+            "word": "\u0440\u044f\u0434\u043e\u043c.",
+            "start": 131.804,
+            "end": 132.165,
+            "confidence": 0.755
+        },
+        {
+            "word": "\u042f",
+            "start": 132.225,
+            "end": 132.305,
+            "confidence": 0.925
+        },
+        {
+            "word": "\u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439",
+            "start": 132.385,
+            "end": 132.925,
+            "confidence": 0.947
+        },
+        {
+            "word": "\u0447\u0435\u043b\u043e\u0432\u0435\u043a.",
+            "start": 132.965,
+            "end": 133.885,
+            "confidence": 0.962
+        },
+        {
+            "word": "\u0412",
+            "start": 133.945,
+            "end": 133.965,
+            "confidence": 1.0
+        },
+        {
+            "word": "\u044d\u0442\u043e\u043c",
+            "start": 134.005,
+            "end": 134.345,
+            "confidence": 0.993
+        },
+        {
+            "word": "\u043e\u0433\u0440\u043e\u043c\u043d\u043e\u043c",
+            "start": 134.365,
+            "end": 134.846,
+            "confidence": 0.943
+        },
+        {
+            "word": "\u0441\u0438\u0442\u0435.",
+            "start": 134.946,
+            "end": 135.486,
+            "confidence": 0.967
+        },
+        {
+            "word": "\u0412\u0435\u0447\u043d\u0430\u044f",
+            "start": 135.526,
+            "end": 136.006,
+            "confidence": 0.733
+        },
+        {
+            "word": "\u0441\u0443\u0435\u0442\u0430.",
+            "start": 136.106,
+            "end": 137.047,
+            "confidence": 0.938
+        },
+        {
+            "word": "\u041c\u0443\u0437\u044b\u043a\u0430",
+            "start": 137.107,
+            "end": 137.587,
+            "confidence": 0.957
+        },
+        {
+            "word": "\u043d\u0430",
+            "start": 137.647,
+            "end": 137.787,
+            "confidence": 0.56
+        },
+        {
+            "word": "\u0440\u0435\u043f\u0438\u0442\u0435.",
+            "start": 137.867,
+            "end": 139.568,
+            "confidence": 0.989
+        },
+        {
+            "word": "\u041b\u0430-\u043b\u0430-\u043b\u0430-\u043b\u0430.",
+            "start": 139.588,
+            "end": 140.988,
+            "confidence": 0.63
+        },
+        {
+            "word": "\u041e\u0442\u043f\u0443\u0441\u0442\u0438",
+            "start": 141.048,
+            "end": 141.288,
+            "confidence": 0.206
+        },
+        {
+            "word": "\u0438",
+            "start": 141.308,
+            "end": 141.628,
+            "confidence": 0.892
+        },
+        {
+            "word": "\u043e\u0442\u0432\u0435\u0434\u0438",
+            "start": 141.648,
+            "end": 142.069,
+            "confidence": 0.559
+        },
+        {
+            "word": "\u0441\u0432\u043e\u0438",
+            "start": 142.129,
+            "end": 142.409,
+            "confidence": 0.824
+        },
+        {
+            "word": "\u0440\u0430\u0441\u043f\u0443\u0442\u043d\u044b\u0435",
+            "start": 142.449,
+            "end": 143.209,
+            "confidence": 0.957
+        },
+        {
+            "word": "\u0433\u043b\u0430\u0437\u0430.",
+            "start": 143.249,
+            "end": 144.29,
+            "confidence": 0.838
+        },
+        {
+            "word": "\u041e\u0442",
+            "start": 144.49,
+            "end": 144.69,
+            "confidence": 0.686
+        },
+        {
+            "word": "\u043d\u0430\u0441.",
+            "start": 144.71,
+            "end": 145.51,
+            "confidence": 0.723
+        },
+        {
+            "word": "\u041b\u0430,",
+            "start": 146.203,
+            "end": 146.524,
+            "confidence": 0.514
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 146.584,
+            "end": 147.364,
+            "confidence": 0.667
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 147.405,
+            "end": 148.125,
+            "confidence": 0.764
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 148.145,
+            "end": 148.466,
+            "confidence": 0.737
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 148.506,
+            "end": 148.866,
+            "confidence": 0.857
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 148.946,
+            "end": 149.166,
+            "confidence": 0.614
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 149.206,
+            "end": 149.306,
+            "confidence": 0.667
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 149.346,
+            "end": 149.587,
+            "confidence": 0.633
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 149.707,
+            "end": 151.148,
+            "confidence": 0.871
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 151.248,
+            "end": 151.628,
+            "confidence": 0.742
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 151.648,
+            "end": 151.829,
+            "confidence": 0.73
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 151.849,
+            "end": 152.169,
+            "confidence": 0.816
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 152.209,
+            "end": 152.489,
+            "confidence": 0.775
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 152.509,
+            "end": 152.95,
+            "confidence": 0.775
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 152.97,
+            "end": 153.05,
+            "confidence": 0.225
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 153.09,
+            "end": 153.29,
+            "confidence": 0.563
+        },
+        {
+            "word": "\u043b\u0430,",
+            "start": 153.33,
+            "end": 153.39,
+            "confidence": 0.051
+        },
+        {
+            "word": "\u043b\u0430.",
+            "start": 153.41,
+            "end": 153.63,
+            "confidence": 0.897
+        },
+        {
+            "word": "\u0420\u0435\u0434\u0430\u043a\u0442\u043e\u0440",
+            "start": 181.319,
+            "end": 181.981,
+            "confidence": 0.466
+        },
+        {
+            "word": "\u0441\u0443\u0431\u0442\u0438\u0442\u0440\u043e\u0432",
+            "start": 182.001,
+            "end": 182.342,
+            "confidence": 0.153
+        },
+        {
+            "word": "\u041d.\u0417\u0430\u043a\u043e\u043c\u043e\u043b\u0434\u0438\u043d\u0430",
+            "start": 182.402,
+            "end": 184.93,
+            "confidence": 0.4
+        }
+    ]
+}

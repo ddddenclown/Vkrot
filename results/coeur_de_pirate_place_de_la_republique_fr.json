@@ -1,0 +1,1375 @@
+{
+    "id": "e2cef7ec-b54b-4ee2-ad22-8d1e4cd9f44b",
+    "status": "done",
+    "language": "fr",
+    "words": [
+        {
+            "word": "On",
+            "start": 18.111,
+            "end": 18.211,
+            "confidence": 0.734
+        },
+        {
+            "word": "s'est",
+            "start": 18.231,
+            "end": 18.891,
+            "confidence": 0.611
+        },
+        {
+            "word": "connus",
+            "start": 18.931,
+            "end": 19.992,
+            "confidence": 0.862
+        },
+        {
+            "word": "le",
+            "start": 20.032,
+            "end": 20.172,
+            "confidence": 0.986
+        },
+        {
+            "word": "temps",
+            "start": 20.252,
+            "end": 21.012,
+            "confidence": 0.876
+        },
+        {
+            "word": "de",
+            "start": 21.052,
+            "end": 21.232,
+            "confidence": 0.932
+        },
+        {
+            "word": "plaire",
+            "start": 21.292,
+            "end": 26.333,
+            "confidence": 0.886
+        },
+        {
+            "word": "Aux",
+            "start": 26.413,
+            "end": 26.614,
+            "confidence": 0.765
+        },
+        {
+            "word": "exigences",
+            "start": 26.894,
+            "end": 28.514,
+            "confidence": 0.886
+        },
+        {
+            "word": "consacr\u00e9es",
+            "start": 28.534,
+            "end": 30.815,
+            "confidence": 0.786
+        },
+        {
+            "word": "Mais",
+            "start": 30.855,
+            "end": 31.415,
+            "confidence": 0.882
+        },
+        {
+            "word": "on",
+            "start": 31.495,
+            "end": 31.655,
+            "confidence": 0.95
+        },
+        {
+            "word": "s'y",
+            "start": 31.695,
+            "end": 31.895,
+            "confidence": 0.816
+        },
+        {
+            "word": "faire",
+            "start": 31.955,
+            "end": 34.656,
+            "confidence": 0.915
+        },
+        {
+            "word": "Tu",
+            "start": 34.856,
+            "end": 35.056,
+            "confidence": 0.826
+        },
+        {
+            "word": "n'es",
+            "start": 35.096,
+            "end": 35.616,
+            "confidence": 0.697
+        },
+        {
+            "word": "qu'\u00e0",
+            "start": 35.656,
+            "end": 36.096,
+            "confidence": 0.418
+        },
+        {
+            "word": "quelques",
+            "start": 36.136,
+            "end": 37.137,
+            "confidence": 0.81
+        },
+        {
+            "word": "kilom\u00e8tres",
+            "start": 37.177,
+            "end": 38.637,
+            "confidence": 0.586
+        },
+        {
+            "word": "Et",
+            "start": 43.495,
+            "end": 43.675,
+            "confidence": 0.396
+        },
+        {
+            "word": "nos",
+            "start": 44.036,
+            "end": 44.156,
+            "confidence": 0.313
+        },
+        {
+            "word": "c\u0153urs,",
+            "start": 44.176,
+            "end": 44.516,
+            "confidence": 0.456
+        },
+        {
+            "word": "nos",
+            "start": 44.676,
+            "end": 45.156,
+            "confidence": 0.675
+        },
+        {
+            "word": "c\u0153urs",
+            "start": 45.196,
+            "end": 45.677,
+            "confidence": 0.697
+        },
+        {
+            "word": "sont",
+            "start": 45.717,
+            "end": 46.257,
+            "confidence": 0.844
+        },
+        {
+            "word": "rest\u00e9s",
+            "start": 46.317,
+            "end": 47.878,
+            "confidence": 0.887
+        },
+        {
+            "word": "dans",
+            "start": 47.918,
+            "end": 48.359,
+            "confidence": 0.826
+        },
+        {
+            "word": "cette",
+            "start": 48.399,
+            "end": 48.679,
+            "confidence": 0.724
+        },
+        {
+            "word": "mer",
+            "start": 48.959,
+            "end": 51.781,
+            "confidence": 0.811
+        },
+        {
+            "word": "J'ai",
+            "start": 51.841,
+            "end": 52.081,
+            "confidence": 0.63
+        },
+        {
+            "word": "couru",
+            "start": 52.121,
+            "end": 53.162,
+            "confidence": 0.826
+        },
+        {
+            "word": "en",
+            "start": 53.242,
+            "end": 53.943,
+            "confidence": 0.714
+        },
+        {
+            "word": "longant",
+            "start": 53.983,
+            "end": 54.783,
+            "confidence": 0.734
+        },
+        {
+            "word": "la",
+            "start": 54.823,
+            "end": 55.123,
+            "confidence": 0.895
+        },
+        {
+            "word": "sc\u00e8ne",
+            "start": 55.223,
+            "end": 60.367,
+            "confidence": 0.666
+        },
+        {
+            "word": "En",
+            "start": 60.447,
+            "end": 60.647,
+            "confidence": 0.827
+        },
+        {
+            "word": "esp\u00e9rant",
+            "start": 60.747,
+            "end": 62.449,
+            "confidence": 0.866
+        },
+        {
+            "word": "te",
+            "start": 62.489,
+            "end": 62.749,
+            "confidence": 0.849
+        },
+        {
+            "word": "retrouver",
+            "start": 62.789,
+            "end": 64.83,
+            "confidence": 0.871
+        },
+        {
+            "word": "la",
+            "start": 64.87,
+            "end": 65.351,
+            "confidence": 0.785
+        },
+        {
+            "word": "mesur\u00e9ne",
+            "start": 65.391,
+            "end": 68.793,
+            "confidence": 0.82
+        },
+        {
+            "word": "J'ai",
+            "start": 68.833,
+            "end": 69.053,
+            "confidence": 0.622
+        },
+        {
+            "word": "couru",
+            "start": 69.093,
+            "end": 70.014,
+            "confidence": 0.843
+        },
+        {
+            "word": "sans",
+            "start": 70.054,
+            "end": 70.915,
+            "confidence": 0.838
+        },
+        {
+            "word": "savoir",
+            "start": 70.955,
+            "end": 71.655,
+            "confidence": 0.821
+        },
+        {
+            "word": "comment",
+            "start": 71.695,
+            "end": 72.456,
+            "confidence": 0.609
+        },
+        {
+            "word": "ni",
+            "start": 77.095,
+            "end": 77.395,
+            "confidence": 0.376
+        },
+        {
+            "word": "pour",
+            "start": 77.635,
+            "end": 78.035,
+            "confidence": 0.694
+        },
+        {
+            "word": "quoi",
+            "start": 78.075,
+            "end": 78.676,
+            "confidence": 0.568
+        },
+        {
+            "word": "on",
+            "start": 78.776,
+            "end": 79.016,
+            "confidence": 0.702
+        },
+        {
+            "word": "s'en",
+            "start": 79.076,
+            "end": 79.596,
+            "confidence": 0.667
+        },
+        {
+            "word": "va,",
+            "start": 79.616,
+            "end": 80.416,
+            "confidence": 0.831
+        },
+        {
+            "word": "on",
+            "start": 80.477,
+            "end": 80.717,
+            "confidence": 0.702
+        },
+        {
+            "word": "sait",
+            "start": 80.757,
+            "end": 81.277,
+            "confidence": 0.614
+        },
+        {
+            "word": "qu'on",
+            "start": 81.297,
+            "end": 81.757,
+            "confidence": 0.389
+        },
+        {
+            "word": "eut",
+            "start": 81.837,
+            "end": 81.917,
+            "confidence": 0.402
+        },
+        {
+            "word": "qu'un",
+            "start": 81.937,
+            "end": 82.397,
+            "confidence": 0.44
+        },
+        {
+            "word": "moment.",
+            "start": 82.597,
+            "end": 84.918,
+            "confidence": 0.587
+        },
+        {
+            "word": "Et",
+            "start": 84.978,
+            "end": 85.179,
+            "confidence": 0.861
+        },
+        {
+            "word": "je",
+            "start": 85.239,
+            "end": 85.739,
+            "confidence": 0.69
+        },
+        {
+            "word": "sifflis",
+            "start": 85.759,
+            "end": 86.499,
+            "confidence": 0.738
+        },
+        {
+            "word": "si",
+            "start": 86.539,
+            "end": 86.739,
+            "confidence": 0.816
+        },
+        {
+            "word": "tu,",
+            "start": 87.119,
+            "end": 87.9,
+            "confidence": 0.881
+        },
+        {
+            "word": "on",
+            "start": 87.96,
+            "end": 88.14,
+            "confidence": 0.932
+        },
+        {
+            "word": "voit",
+            "start": 88.2,
+            "end": 88.68,
+            "confidence": 0.772
+        },
+        {
+            "word": "la",
+            "start": 88.72,
+            "end": 88.82,
+            "confidence": 0.666
+        },
+        {
+            "word": "perne,",
+            "start": 89.22,
+            "end": 89.941,
+            "confidence": 0.732
+        },
+        {
+            "word": "c'est",
+            "start": 89.961,
+            "end": 90.281,
+            "confidence": 0.333
+        },
+        {
+            "word": "plus",
+            "start": 90.301,
+            "end": 90.481,
+            "confidence": 0.318
+        },
+        {
+            "word": "d'audir",
+            "start": 90.541,
+            "end": 92.122,
+            "confidence": 0.826
+        },
+        {
+            "word": "d'en",
+            "start": 92.142,
+            "end": 92.402,
+            "confidence": 0.642
+        },
+        {
+            "word": "\u00eatre",
+            "start": 92.482,
+            "end": 92.862,
+            "confidence": 0.727
+        },
+        {
+            "word": "certaine,",
+            "start": 92.922,
+            "end": 94.243,
+            "confidence": 0.85
+        },
+        {
+            "word": "et",
+            "start": 94.323,
+            "end": 94.503,
+            "confidence": 0.79
+        },
+        {
+            "word": "quand",
+            "start": 94.543,
+            "end": 95.003,
+            "confidence": 0.885
+        },
+        {
+            "word": "il",
+            "start": 95.103,
+            "end": 95.543,
+            "confidence": 0.924
+        },
+        {
+            "word": "sert",
+            "start": 95.603,
+            "end": 96.163,
+            "confidence": 0.802
+        },
+        {
+            "word": "\u00e0",
+            "start": 96.223,
+            "end": 96.383,
+            "confidence": 0.927
+        },
+        {
+            "word": "la",
+            "start": 96.443,
+            "end": 96.624,
+            "confidence": 0.88
+        },
+        {
+            "word": "part",
+            "start": 96.704,
+            "end": 97.204,
+            "confidence": 0.79
+        },
+        {
+            "word": "des",
+            "start": 97.244,
+            "end": 97.624,
+            "confidence": 0.921
+        },
+        {
+            "word": "termes,",
+            "start": 97.724,
+            "end": 98.464,
+            "confidence": 0.741
+        },
+        {
+            "word": "ce",
+            "start": 98.504,
+            "end": 98.684,
+            "confidence": 0.828
+        },
+        {
+            "word": "soir",
+            "start": 98.724,
+            "end": 99.285,
+            "confidence": 0.802
+        },
+        {
+            "word": "m\u00eame",
+            "start": 99.345,
+            "end": 99.785,
+            "confidence": 0.893
+        },
+        {
+            "word": "oublie",
+            "start": 100.145,
+            "end": 100.825,
+            "confidence": 0.813
+        },
+        {
+            "word": "pas,",
+            "start": 100.885,
+            "end": 101.686,
+            "confidence": 0.755
+        },
+        {
+            "word": "je",
+            "start": 101.726,
+            "end": 101.886,
+            "confidence": 0.932
+        },
+        {
+            "word": "t'attenderai",
+            "start": 101.966,
+            "end": 103.787,
+            "confidence": 0.731
+        },
+        {
+            "word": "au",
+            "start": 103.867,
+            "end": 104.047,
+            "confidence": 0.62
+        },
+        {
+            "word": "moins.",
+            "start": 104.087,
+            "end": 104.287,
+            "confidence": 0.451
+        },
+        {
+            "word": "le",
+            "start": 104.887,
+            "end": 105.068,
+            "confidence": 0.926
+        },
+        {
+            "word": "temps",
+            "start": 105.128,
+            "end": 105.568,
+            "confidence": 0.841
+        },
+        {
+            "word": "d'\u00e9tire",
+            "start": 105.608,
+            "end": 106.91,
+            "confidence": 0.781
+        },
+        {
+            "word": "que",
+            "start": 106.95,
+            "end": 107.19,
+            "confidence": 0.872
+        },
+        {
+            "word": "j'ai",
+            "start": 107.25,
+            "end": 107.731,
+            "confidence": 0.699
+        },
+        {
+            "word": "voulu",
+            "start": 107.771,
+            "end": 108.252,
+            "confidence": 0.858
+        },
+        {
+            "word": "prendre",
+            "start": 108.292,
+            "end": 109.073,
+            "confidence": 0.854
+        },
+        {
+            "word": "le",
+            "start": 109.113,
+            "end": 109.313,
+            "confidence": 0.768
+        },
+        {
+            "word": "plus",
+            "start": 109.353,
+            "end": 109.814,
+            "confidence": 0.817
+        },
+        {
+            "word": "grand",
+            "start": 109.854,
+            "end": 110.454,
+            "confidence": 0.595
+        },
+        {
+            "word": "risque,",
+            "start": 110.494,
+            "end": 111.215,
+            "confidence": 0.592
+        },
+        {
+            "word": "un",
+            "start": 111.275,
+            "end": 111.375,
+            "confidence": 0.552
+        },
+        {
+            "word": "soir",
+            "start": 111.456,
+            "end": 112.196,
+            "confidence": 0.669
+        },
+        {
+            "word": "qui",
+            "start": 112.236,
+            "end": 112.537,
+            "confidence": 0.952
+        },
+        {
+            "word": "m'a",
+            "start": 112.557,
+            "end": 113.037,
+            "confidence": 0.748
+        },
+        {
+            "word": "rendu",
+            "start": 113.098,
+            "end": 114.059,
+            "confidence": 0.835
+        },
+        {
+            "word": "bien",
+            "start": 114.119,
+            "end": 114.519,
+            "confidence": 0.9
+        },
+        {
+            "word": "triste,",
+            "start": 114.599,
+            "end": 115.5,
+            "confidence": 0.677
+        },
+        {
+            "word": "un",
+            "start": 115.561,
+            "end": 115.681,
+            "confidence": 0.869
+        },
+        {
+            "word": "soir",
+            "start": 115.741,
+            "end": 116.662,
+            "confidence": 0.818
+        },
+        {
+            "word": "place",
+            "start": 116.682,
+            "end": 117.203,
+            "confidence": 0.779
+        },
+        {
+            "word": "de",
+            "start": 117.523,
+            "end": 117.643,
+            "confidence": 0.388
+        },
+        {
+            "word": "la",
+            "start": 117.683,
+            "end": 117.843,
+            "confidence": 0.938
+        },
+        {
+            "word": "r\u00e9v\u00e9l\u00e9e.",
+            "start": 117.923,
+            "end": 119.105,
+            "confidence": 0.779
+        },
+        {
+            "word": "Et",
+            "start": 136.828,
+            "end": 136.988,
+            "confidence": 0.706
+        },
+        {
+            "word": "comme",
+            "start": 137.028,
+            "end": 137.649,
+            "confidence": 0.571
+        },
+        {
+            "word": "tu",
+            "start": 137.689,
+            "end": 137.929,
+            "confidence": 0.674
+        },
+        {
+            "word": "vois,",
+            "start": 137.969,
+            "end": 138.749,
+            "confidence": 0.69
+        },
+        {
+            "word": "c'est",
+            "start": 138.769,
+            "end": 138.969,
+            "confidence": 0.483
+        },
+        {
+            "word": "bien",
+            "start": 139.009,
+            "end": 139.85,
+            "confidence": 0.698
+        },
+        {
+            "word": "la",
+            "start": 139.89,
+            "end": 140.03,
+            "confidence": 0.55
+        },
+        {
+            "word": "fin",
+            "start": 140.09,
+            "end": 145.173,
+            "confidence": 0.685
+        },
+        {
+            "word": "Je",
+            "start": 145.193,
+            "end": 145.373,
+            "confidence": 0.8
+        },
+        {
+            "word": "dois",
+            "start": 145.413,
+            "end": 146.154,
+            "confidence": 0.566
+        },
+        {
+            "word": "traverser",
+            "start": 146.214,
+            "end": 147.555,
+            "confidence": 0.791
+        },
+        {
+            "word": "l'oc\u00e9an",
+            "start": 147.595,
+            "end": 149.676,
+            "confidence": 0.659
+        },
+        {
+            "word": "de",
+            "start": 149.716,
+            "end": 150.196,
+            "confidence": 0.801
+        },
+        {
+            "word": "m\u00eame",
+            "start": 150.236,
+            "end": 150.517,
+            "confidence": 0.605
+        },
+        {
+            "word": "atteinte",
+            "start": 150.837,
+            "end": 153.678,
+            "confidence": 0.56
+        },
+        {
+            "word": "De",
+            "start": 153.698,
+            "end": 153.819,
+            "confidence": 0.76
+        },
+        {
+            "word": "tes",
+            "start": 153.839,
+            "end": 154.419,
+            "confidence": 0.778
+        },
+        {
+            "word": "breurs,",
+            "start": 154.439,
+            "end": 154.919,
+            "confidence": 0.371
+        },
+        {
+            "word": "je",
+            "start": 154.959,
+            "end": 155.78,
+            "confidence": 0.817
+        },
+        {
+            "word": "m'arracherai",
+            "start": 155.82,
+            "end": 157.081,
+            "confidence": 0.496
+        },
+        {
+            "word": "tout",
+            "start": 157.121,
+            "end": 158.682,
+            "confidence": 0.619
+        },
+        {
+            "word": "doucement",
+            "start": 158.722,
+            "end": 160.503,
+            "confidence": 0.449
+        },
+        {
+            "word": "Et",
+            "start": 162.232,
+            "end": 162.372,
+            "confidence": 0.724
+        },
+        {
+            "word": "c'est",
+            "start": 162.432,
+            "end": 162.952,
+            "confidence": 0.697
+        },
+        {
+            "word": "la",
+            "start": 162.992,
+            "end": 163.252,
+            "confidence": 0.834
+        },
+        {
+            "word": "r\u00e9alit\u00e9",
+            "start": 163.472,
+            "end": 165.313,
+            "confidence": 0.869
+        },
+        {
+            "word": "qui",
+            "start": 165.573,
+            "end": 167.193,
+            "confidence": 0.572
+        },
+        {
+            "word": "m'attend",
+            "start": 167.253,
+            "end": 170.594,
+            "confidence": 0.748
+        },
+        {
+            "word": "Je",
+            "start": 170.634,
+            "end": 170.834,
+            "confidence": 0.668
+        },
+        {
+            "word": "sais",
+            "start": 170.874,
+            "end": 171.094,
+            "confidence": 0.636
+        },
+        {
+            "word": "ton",
+            "start": 171.414,
+            "end": 171.914,
+            "confidence": 0.765
+        },
+        {
+            "word": "c\u0153ur",
+            "start": 171.954,
+            "end": 172.674,
+            "confidence": 0.641
+        },
+        {
+            "word": "et",
+            "start": 172.754,
+            "end": 172.974,
+            "confidence": 0.758
+        },
+        {
+            "word": "d'aviter",
+            "start": 173.014,
+            "end": 179.156,
+            "confidence": 0.634
+        },
+        {
+            "word": "Par",
+            "start": 179.196,
+            "end": 179.916,
+            "confidence": 0.764
+        },
+        {
+            "word": "une",
+            "start": 180.036,
+            "end": 180.456,
+            "confidence": 0.567
+        },
+        {
+            "word": "autre",
+            "start": 180.556,
+            "end": 181.496,
+            "confidence": 0.764
+        },
+        {
+            "word": "fille",
+            "start": 181.536,
+            "end": 182.516,
+            "confidence": 0.602
+        },
+        {
+            "word": "qui",
+            "start": 182.556,
+            "end": 183.557,
+            "confidence": 0.492
+        },
+        {
+            "word": "t'en",
+            "start": 183.597,
+            "end": 184.117,
+            "confidence": 0.549
+        },
+        {
+            "word": "marquait",
+            "start": 184.177,
+            "end": 184.897,
+            "confidence": 0.39
+        },
+        {
+            "word": "Moi",
+            "start": 187.512,
+            "end": 187.712,
+            "confidence": 0.436
+        },
+        {
+            "word": "je",
+            "start": 187.913,
+            "end": 188.293,
+            "confidence": 0.79
+        },
+        {
+            "word": "signe",
+            "start": 188.373,
+            "end": 188.934,
+            "confidence": 0.563
+        },
+        {
+            "word": "m\u00eame",
+            "start": 189.235,
+            "end": 190.757,
+            "confidence": 0.64
+        },
+        {
+            "word": "pas",
+            "start": 192.4,
+            "end": 195.786,
+            "confidence": 0.749
+        },
+        {
+            "word": "que",
+            "start": 195.826,
+            "end": 196.106,
+            "confidence": 0.669
+        },
+        {
+            "word": "les",
+            "start": 196.146,
+            "end": 196.327,
+            "confidence": 0.647
+        },
+        {
+            "word": "sortes",
+            "start": 196.367,
+            "end": 196.527,
+            "confidence": 0.115
+        },
+        {
+            "word": "Mais",
+            "start": 196.547,
+            "end": 196.687,
+            "confidence": 0.316
+        },
+        {
+            "word": "j'esp\u00e8re",
+            "start": 196.707,
+            "end": 197.409,
+            "confidence": 0.501
+        },
+        {
+            "word": "tant",
+            "start": 197.449,
+            "end": 197.929,
+            "confidence": 0.679
+        },
+        {
+            "word": "de",
+            "start": 197.97,
+            "end": 198.49,
+            "confidence": 0.83
+        },
+        {
+            "word": "manquements",
+            "start": 198.51,
+            "end": 199.272,
+            "confidence": 0.429
+        },
+        {
+            "word": "me",
+            "start": 200.455,
+            "end": 200.895,
+            "confidence": 0.724
+        },
+        {
+            "word": "d\u00e9marquer.",
+            "start": 200.915,
+            "end": 202.375,
+            "confidence": 0.781
+        },
+        {
+            "word": "Et",
+            "start": 202.415,
+            "end": 202.556,
+            "confidence": 0.649
+        },
+        {
+            "word": "je",
+            "start": 204.016,
+            "end": 204.536,
+            "confidence": 0.739
+        },
+        {
+            "word": "sais",
+            "start": 204.556,
+            "end": 204.796,
+            "confidence": 0.487
+        },
+        {
+            "word": "pas",
+            "start": 204.816,
+            "end": 205.036,
+            "confidence": 0.719
+        },
+        {
+            "word": "si",
+            "start": 205.356,
+            "end": 205.856,
+            "confidence": 0.825
+        },
+        {
+            "word": "tu",
+            "start": 205.896,
+            "end": 206.696,
+            "confidence": 0.842
+        },
+        {
+            "word": "envoles",
+            "start": 206.757,
+            "end": 208.117,
+            "confidence": 0.783
+        },
+        {
+            "word": "\u00e0",
+            "start": 208.217,
+            "end": 208.417,
+            "confidence": 0.795
+        },
+        {
+            "word": "peur.",
+            "start": 208.517,
+            "end": 208.757,
+            "confidence": 0.539
+        },
+        {
+            "word": "C'est",
+            "start": 208.777,
+            "end": 209.037,
+            "confidence": 0.429
+        },
+        {
+            "word": "p\u00e9todier,",
+            "start": 209.077,
+            "end": 210.918,
+            "confidence": 0.771
+        },
+        {
+            "word": "d'en",
+            "start": 210.958,
+            "end": 211.218,
+            "confidence": 0.482
+        },
+        {
+            "word": "\u00eatre",
+            "start": 211.278,
+            "end": 211.658,
+            "confidence": 0.636
+        },
+        {
+            "word": "certain.",
+            "start": 211.718,
+            "end": 213.058,
+            "confidence": 0.645
+        },
+        {
+            "word": "Et",
+            "start": 213.118,
+            "end": 213.298,
+            "confidence": 0.81
+        },
+        {
+            "word": "quand",
+            "start": 213.358,
+            "end": 213.838,
+            "confidence": 0.677
+        },
+        {
+            "word": "il",
+            "start": 213.898,
+            "end": 214.338,
+            "confidence": 0.922
+        },
+        {
+            "word": "sert",
+            "start": 214.378,
+            "end": 214.938,
+            "confidence": 0.761
+        },
+        {
+            "word": "\u00e0",
+            "start": 214.998,
+            "end": 215.179,
+            "confidence": 0.693
+        },
+        {
+            "word": "la",
+            "start": 215.219,
+            "end": 215.359,
+            "confidence": 0.712
+        },
+        {
+            "word": "peur",
+            "start": 215.459,
+            "end": 215.979,
+            "confidence": 0.806
+        },
+        {
+            "word": "des",
+            "start": 215.999,
+            "end": 216.119,
+            "confidence": 0.445
+        },
+        {
+            "word": "termes,",
+            "start": 216.479,
+            "end": 217.279,
+            "confidence": 0.417
+        },
+        {
+            "word": "ce",
+            "start": 217.299,
+            "end": 217.459,
+            "confidence": 0.974
+        },
+        {
+            "word": "soir",
+            "start": 217.519,
+            "end": 217.859,
+            "confidence": 0.912
+        },
+        {
+            "word": "ne",
+            "start": 217.899,
+            "end": 218.119,
+            "confidence": 0.444
+        },
+        {
+            "word": "m'ouvris",
+            "start": 218.439,
+            "end": 219.6,
+            "confidence": 0.766
+        },
+        {
+            "word": "pas,",
+            "start": 219.64,
+            "end": 220.46,
+            "confidence": 0.526
+        },
+        {
+            "word": "je",
+            "start": 220.48,
+            "end": 220.62,
+            "confidence": 0.768
+        },
+        {
+            "word": "t'as.",
+            "start": 220.74,
+            "end": 221.24,
+            "confidence": 0.735
+        },
+        {
+            "word": "Tendrais",
+            "start": 221.62,
+            "end": 222.401,
+            "confidence": 0.637
+        },
+        {
+            "word": "au",
+            "start": 222.701,
+            "end": 222.881,
+            "confidence": 0.77
+        },
+        {
+            "word": "moins",
+            "start": 222.921,
+            "end": 223.682,
+            "confidence": 0.743
+        },
+        {
+            "word": "le",
+            "start": 223.722,
+            "end": 223.862,
+            "confidence": 0.836
+        },
+        {
+            "word": "temps",
+            "start": 223.922,
+            "end": 224.443,
+            "confidence": 0.867
+        },
+        {
+            "word": "d\u00e9di\u00e9",
+            "start": 224.503,
+            "end": 225.764,
+            "confidence": 0.887
+        },
+        {
+            "word": "Que",
+            "start": 225.804,
+            "end": 225.984,
+            "confidence": 0.649
+        },
+        {
+            "word": "chez",
+            "start": 226.024,
+            "end": 226.544,
+            "confidence": 0.821
+        },
+        {
+            "word": "Paulie",
+            "start": 226.584,
+            "end": 227.045,
+            "confidence": 0.545
+        },
+        {
+            "word": "prend",
+            "start": 227.085,
+            "end": 227.926,
+            "confidence": 0.719
+        },
+        {
+            "word": "le",
+            "start": 227.966,
+            "end": 228.106,
+            "confidence": 0.94
+        },
+        {
+            "word": "plus",
+            "start": 228.146,
+            "end": 228.646,
+            "confidence": 0.92
+        },
+        {
+            "word": "grand",
+            "start": 228.686,
+            "end": 229.187,
+            "confidence": 0.707
+        },
+        {
+            "word": "risque",
+            "start": 229.227,
+            "end": 230.027,
+            "confidence": 0.748
+        },
+        {
+            "word": "Un",
+            "start": 230.087,
+            "end": 230.167,
+            "confidence": 0.606
+        },
+        {
+            "word": "soir",
+            "start": 230.328,
+            "end": 231.008,
+            "confidence": 0.831
+        },
+        {
+            "word": "qui",
+            "start": 231.068,
+            "end": 231.368,
+            "confidence": 0.817
+        },
+        {
+            "word": "m'a",
+            "start": 231.429,
+            "end": 231.909,
+            "confidence": 0.516
+        },
+        {
+            "word": "rendu",
+            "start": 231.989,
+            "end": 232.95,
+            "confidence": 0.763
+        },
+        {
+            "word": "bien",
+            "start": 232.99,
+            "end": 233.47,
+            "confidence": 0.722
+        },
+        {
+            "word": "triste",
+            "start": 233.49,
+            "end": 234.311,
+            "confidence": 0.751
+        },
+        {
+            "word": "Au",
+            "start": 234.371,
+            "end": 234.491,
+            "confidence": 0.46
+        },
+        {
+            "word": "sable",
+            "start": 234.531,
+            "end": 235.092,
+            "confidence": 0.658
+        },
+        {
+            "word": "\u00e0",
+            "start": 235.192,
+            "end": 235.412,
+            "confidence": 0.866
+        },
+        {
+            "word": "Stade,",
+            "start": 235.432,
+            "end": 236.453,
+            "confidence": 0.734
+        },
+        {
+            "word": "la",
+            "start": 236.473,
+            "end": 236.713,
+            "confidence": 0.818
+        },
+        {
+            "word": "R\u00e9publique",
+            "start": 236.793,
+            "end": 238.174,
+            "confidence": 0.553
+        }
+    ]
+}

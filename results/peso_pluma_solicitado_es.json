@@ -1,0 +1,1249 @@
+{
+    "id": "4d670e93-f1ac-4589-aa5e-f7fd5e319faa",
+    "status": "done",
+    "language": "es",
+    "words": [
+        {
+            "word": "El",
+            "start": 1.873,
+            "end": 2.173,
+            "confidence": 0.654
+        },
+        {
+            "word": "celular",
+            "start": 2.193,
+            "end": 2.994,
+            "confidence": 0.612
+        },
+        {
+            "word": "mado",
+            "start": 3.034,
+            "end": 3.475,
+            "confidence": 0.74
+        },
+        {
+            "word": "avi\u00f3n,",
+            "start": 3.555,
+            "end": 4.236,
+            "confidence": 0.532
+        },
+        {
+            "word": "pa'",
+            "start": 4.836,
+            "end": 5.076,
+            "confidence": 0.606
+        },
+        {
+            "word": "que",
+            "start": 5.116,
+            "end": 5.217,
+            "confidence": 0.231
+        },
+        {
+            "word": "los",
+            "start": 5.257,
+            "end": 5.397,
+            "confidence": 0.819
+        },
+        {
+            "word": "plebes",
+            "start": 5.477,
+            "end": 5.917,
+            "confidence": 0.776
+        },
+        {
+            "word": "no",
+            "start": 6.037,
+            "end": 6.158,
+            "confidence": 0.826
+        },
+        {
+            "word": "cague",
+            "start": 6.258,
+            "end": 6.598,
+            "confidence": 0.727
+        },
+        {
+            "word": "en",
+            "start": 6.618,
+            "end": 6.778,
+            "confidence": 0.756
+        },
+        {
+            "word": "el",
+            "start": 6.838,
+            "end": 6.938,
+            "confidence": 0.624
+        },
+        {
+            "word": "palo.",
+            "start": 7.038,
+            "end": 7.719,
+            "confidence": 0.825
+        },
+        {
+            "word": "Amanecernos",
+            "start": 8.2,
+            "end": 9.521,
+            "confidence": 0.803
+        },
+        {
+            "word": "un",
+            "start": 9.621,
+            "end": 9.701,
+            "confidence": 0.916
+        },
+        {
+            "word": "rato,",
+            "start": 9.761,
+            "end": 11.303,
+            "confidence": 0.944
+        },
+        {
+            "word": "sejala",
+            "start": 12.264,
+            "end": 12.825,
+            "confidence": 0.739
+        },
+        {
+            "word": "el",
+            "start": 12.885,
+            "end": 12.945,
+            "confidence": 0.618
+        },
+        {
+            "word": "viejo.",
+            "start": 13.005,
+            "end": 14.266,
+            "confidence": 0.789
+        },
+        {
+            "word": "La",
+            "start": 15.307,
+            "end": 15.447,
+            "confidence": 0.892
+        },
+        {
+            "word": "gloca",
+            "start": 15.467,
+            "end": 15.848,
+            "confidence": 0.735
+        },
+        {
+            "word": "al",
+            "start": 15.868,
+            "end": 15.968,
+            "confidence": 0.548
+        },
+        {
+            "word": "cinto",
+            "start": 16.028,
+            "end": 16.589,
+            "confidence": 0.837
+        },
+        {
+            "word": "es",
+            "start": 16.669,
+            "end": 16.789,
+            "confidence": 0.788
+        },
+        {
+            "word": "solo",
+            "start": 16.809,
+            "end": 17.429,
+            "confidence": 0.767
+        },
+        {
+            "word": "para",
+            "start": 17.53,
+            "end": 18.17,
+            "confidence": 0.817
+        },
+        {
+            "word": "precauci\u00f3n,",
+            "start": 18.27,
+            "end": 19.832,
+            "confidence": 0.817
+        },
+        {
+            "word": "no",
+            "start": 21.494,
+            "end": 21.874,
+            "confidence": 0.858
+        },
+        {
+            "word": "para",
+            "start": 21.914,
+            "end": 22.355,
+            "confidence": 0.562
+        },
+        {
+            "word": "andar",
+            "start": 22.695,
+            "end": 23.836,
+            "confidence": 0.631
+        },
+        {
+            "word": "de",
+            "start": 23.876,
+            "end": 24.117,
+            "confidence": 0.726
+        },
+        {
+            "word": "un",
+            "start": 24.157,
+            "end": 24.197,
+            "confidence": 0.012
+        },
+        {
+            "word": "amor.",
+            "start": 24.277,
+            "end": 24.517,
+            "confidence": 0.422
+        },
+        {
+            "word": "Ya",
+            "start": 25.744,
+            "end": 26.044,
+            "confidence": 0.796
+        },
+        {
+            "word": "sabe",
+            "start": 26.064,
+            "end": 26.445,
+            "confidence": 0.782
+        },
+        {
+            "word": "que",
+            "start": 26.505,
+            "end": 27.005,
+            "confidence": 0.71
+        },
+        {
+            "word": "de",
+            "start": 27.065,
+            "end": 27.185,
+            "confidence": 0.652
+        },
+        {
+            "word": "repente",
+            "start": 27.306,
+            "end": 28.146,
+            "confidence": 0.865
+        },
+        {
+            "word": "gasto",
+            "start": 28.807,
+            "end": 29.167,
+            "confidence": 0.826
+        },
+        {
+            "word": "pa'",
+            "start": 29.288,
+            "end": 29.428,
+            "confidence": 0.523
+        },
+        {
+            "word": "ac\u00e1",
+            "start": 29.448,
+            "end": 29.848,
+            "confidence": 0.764
+        },
+        {
+            "word": "ser",
+            "start": 30.008,
+            "end": 30.228,
+            "confidence": 0.769
+        },
+        {
+            "word": "luego",
+            "start": 30.289,
+            "end": 30.709,
+            "confidence": 0.524
+        },
+        {
+            "word": "esto",
+            "start": 30.789,
+            "end": 35.013,
+            "confidence": 0.792
+        },
+        {
+            "word": "Paso",
+            "start": 35.073,
+            "end": 35.333,
+            "confidence": 0.907
+        },
+        {
+            "word": "mi",
+            "start": 35.534,
+            "end": 35.874,
+            "confidence": 0.878
+        },
+        {
+            "word": "tiempo",
+            "start": 36.054,
+            "end": 36.455,
+            "confidence": 0.711
+        },
+        {
+            "word": "cambiando",
+            "start": 36.515,
+            "end": 37.556,
+            "confidence": 0.821
+        },
+        {
+            "word": "Siempre",
+            "start": 38.016,
+            "end": 38.356,
+            "confidence": 0.92
+        },
+        {
+            "word": "ching\u00e1ndome",
+            "start": 38.497,
+            "end": 39.598,
+            "confidence": 0.743
+        },
+        {
+            "word": "un",
+            "start": 39.658,
+            "end": 39.758,
+            "confidence": 0.927
+        },
+        {
+            "word": "gallo",
+            "start": 39.798,
+            "end": 40.538,
+            "confidence": 0.835
+        },
+        {
+            "word": "Pero",
+            "start": 41.099,
+            "end": 41.379,
+            "confidence": 0.869
+        },
+        {
+            "word": "que",
+            "start": 41.519,
+            "end": 42.0,
+            "confidence": 0.752
+        },
+        {
+            "word": "se",
+            "start": 42.04,
+            "end": 42.24,
+            "confidence": 0.83
+        },
+        {
+            "word": "ayongo",
+            "start": 42.26,
+            "end": 42.841,
+            "confidence": 0.62
+        },
+        {
+            "word": "el",
+            "start": 42.881,
+            "end": 43.001,
+            "confidence": 0.656
+        },
+        {
+            "word": "voice",
+            "start": 43.061,
+            "end": 46.024,
+            "confidence": 0.576
+        },
+        {
+            "word": "Instagram",
+            "start": 49.285,
+            "end": 50.287,
+            "confidence": 0.757
+        },
+        {
+            "word": "a",
+            "start": 50.327,
+            "end": 50.427,
+            "confidence": 0.762
+        },
+        {
+            "word": "reventar,",
+            "start": 50.527,
+            "end": 51.609,
+            "confidence": 0.848
+        },
+        {
+            "word": "pero",
+            "start": 51.749,
+            "end": 52.21,
+            "confidence": 0.98
+        },
+        {
+            "word": "no",
+            "start": 52.35,
+            "end": 52.63,
+            "confidence": 0.948
+        },
+        {
+            "word": "voy",
+            "start": 52.831,
+            "end": 53.251,
+            "confidence": 0.877
+        },
+        {
+            "word": "a",
+            "start": 53.331,
+            "end": 53.391,
+            "confidence": 0.931
+        },
+        {
+            "word": "contestar",
+            "start": 53.572,
+            "end": 54.593,
+            "confidence": 0.944
+        },
+        {
+            "word": "Me",
+            "start": 55.014,
+            "end": 55.174,
+            "confidence": 0.834
+        },
+        {
+            "word": "hice",
+            "start": 55.234,
+            "end": 55.454,
+            "confidence": 0.636
+        },
+        {
+            "word": "m\u00e1s",
+            "start": 55.515,
+            "end": 55.755,
+            "confidence": 0.876
+        },
+        {
+            "word": "solicitado,",
+            "start": 55.775,
+            "end": 56.997,
+            "confidence": 0.832
+        },
+        {
+            "word": "desde",
+            "start": 57.337,
+            "end": 57.678,
+            "confidence": 0.666
+        },
+        {
+            "word": "que",
+            "start": 57.738,
+            "end": 57.838,
+            "confidence": 0.623
+        },
+        {
+            "word": "cargo",
+            "start": 58.038,
+            "end": 58.539,
+            "confidence": 0.747
+        },
+        {
+            "word": "el",
+            "start": 58.599,
+            "end": 58.719,
+            "confidence": 0.879
+        },
+        {
+            "word": "moro",
+            "start": 58.799,
+            "end": 59.1,
+            "confidence": 0.796
+        },
+        {
+            "word": "S\u00ed,",
+            "start": 60.832,
+            "end": 61.493,
+            "confidence": 0.636
+        },
+        {
+            "word": "claro",
+            "start": 61.553,
+            "end": 61.853,
+            "confidence": 0.681
+        },
+        {
+            "word": "que",
+            "start": 62.013,
+            "end": 62.133,
+            "confidence": 0.671
+        },
+        {
+            "word": "el",
+            "start": 62.153,
+            "end": 62.233,
+            "confidence": 0.73
+        },
+        {
+            "word": "carrito",
+            "start": 62.313,
+            "end": 63.474,
+            "confidence": 0.771
+        },
+        {
+            "word": "s\u00ed",
+            "start": 63.535,
+            "end": 63.595,
+            "confidence": 0.278
+        },
+        {
+            "word": "es",
+            "start": 63.615,
+            "end": 63.735,
+            "confidence": 0.871
+        },
+        {
+            "word": "m\u00edo",
+            "start": 63.795,
+            "end": 64.475,
+            "confidence": 0.848
+        },
+        {
+            "word": "Y",
+            "start": 64.495,
+            "end": 64.515,
+            "confidence": 0.056
+        },
+        {
+            "word": "aunque",
+            "start": 65.176,
+            "end": 65.476,
+            "confidence": 0.652
+        },
+        {
+            "word": "se",
+            "start": 65.576,
+            "end": 65.797,
+            "confidence": 0.794
+        },
+        {
+            "word": "mire",
+            "start": 65.857,
+            "end": 66.497,
+            "confidence": 0.821
+        },
+        {
+            "word": "carito,",
+            "start": 66.597,
+            "end": 67.618,
+            "confidence": 0.886
+        },
+        {
+            "word": "me",
+            "start": 68.039,
+            "end": 68.199,
+            "confidence": 0.797
+        },
+        {
+            "word": "lo",
+            "start": 68.279,
+            "end": 68.439,
+            "confidence": 0.832
+        },
+        {
+            "word": "compre",
+            "start": 68.539,
+            "end": 69.22,
+            "confidence": 0.777
+        },
+        {
+            "word": "yo",
+            "start": 69.32,
+            "end": 70.061,
+            "confidence": 0.82
+        },
+        {
+            "word": "Y",
+            "start": 70.781,
+            "end": 70.861,
+            "confidence": 0.755
+        },
+        {
+            "word": "apenas",
+            "start": 70.922,
+            "end": 71.502,
+            "confidence": 0.894
+        },
+        {
+            "word": "soy",
+            "start": 71.582,
+            "end": 72.103,
+            "confidence": 0.729
+        },
+        {
+            "word": "un",
+            "start": 72.163,
+            "end": 72.263,
+            "confidence": 0.863
+        },
+        {
+            "word": "morr\u00f3n,",
+            "start": 72.323,
+            "end": 72.783,
+            "confidence": 0.879
+        },
+        {
+            "word": "ya",
+            "start": 73.064,
+            "end": 73.524,
+            "confidence": 0.859
+        },
+        {
+            "word": "saben",
+            "start": 73.584,
+            "end": 73.984,
+            "confidence": 0.881
+        },
+        {
+            "word": "que",
+            "start": 74.105,
+            "end": 74.265,
+            "confidence": 0.435
+        },
+        {
+            "word": "los",
+            "start": 74.305,
+            "end": 74.925,
+            "confidence": 0.727
+        },
+        {
+            "word": "jefes",
+            "start": 75.045,
+            "end": 75.446,
+            "confidence": 0.691
+        },
+        {
+            "word": "me",
+            "start": 75.466,
+            "end": 75.526,
+            "confidence": 0.241
+        },
+        {
+            "word": "estiman",
+            "start": 75.606,
+            "end": 77.027,
+            "confidence": 0.782
+        },
+        {
+            "word": "Saben",
+            "start": 77.087,
+            "end": 77.508,
+            "confidence": 0.687
+        },
+        {
+            "word": "que",
+            "start": 77.528,
+            "end": 77.708,
+            "confidence": 0.667
+        },
+        {
+            "word": "cargo",
+            "start": 78.068,
+            "end": 78.509,
+            "confidence": 0.736
+        },
+        {
+            "word": "la",
+            "start": 78.569,
+            "end": 78.689,
+            "confidence": 0.782
+        },
+        {
+            "word": "paja",
+            "start": 78.789,
+            "end": 79.67,
+            "confidence": 0.82
+        },
+        {
+            "word": "y",
+            "start": 80.01,
+            "end": 80.13,
+            "confidence": 0.672
+        },
+        {
+            "word": "esa",
+            "start": 80.21,
+            "end": 80.511,
+            "confidence": 0.751
+        },
+        {
+            "word": "nunca",
+            "start": 80.551,
+            "end": 81.231,
+            "confidence": 0.816
+        },
+        {
+            "word": "se",
+            "start": 81.251,
+            "end": 81.451,
+            "confidence": 0.706
+        },
+        {
+            "word": "termina",
+            "start": 81.572,
+            "end": 82.633,
+            "confidence": 0.899
+        },
+        {
+            "word": "Y",
+            "start": 107.66,
+            "end": 107.84,
+            "confidence": 0.112
+        },
+        {
+            "word": "andamos",
+            "start": 107.92,
+            "end": 110.442,
+            "confidence": 0.758
+        },
+        {
+            "word": "siempre",
+            "start": 110.622,
+            "end": 111.123,
+            "confidence": 0.64
+        },
+        {
+            "word": "bien",
+            "start": 111.143,
+            "end": 111.423,
+            "confidence": 0.617
+        },
+        {
+            "word": "arremangado,",
+            "start": 111.463,
+            "end": 113.285,
+            "confidence": 0.871
+        },
+        {
+            "word": "la",
+            "start": 113.605,
+            "end": 113.845,
+            "confidence": 0.792
+        },
+        {
+            "word": "charola",
+            "start": 113.925,
+            "end": 114.526,
+            "confidence": 0.729
+        },
+        {
+            "word": "la",
+            "start": 114.566,
+            "end": 114.666,
+            "confidence": 0.774
+        },
+        {
+            "word": "portamos",
+            "start": 114.826,
+            "end": 115.607,
+            "confidence": 0.912
+        },
+        {
+            "word": "y",
+            "start": 116.427,
+            "end": 116.547,
+            "confidence": 0.835
+        },
+        {
+            "word": "aunque",
+            "start": 116.648,
+            "end": 116.968,
+            "confidence": 0.804
+        },
+        {
+            "word": "nunca",
+            "start": 117.048,
+            "end": 117.408,
+            "confidence": 0.986
+        },
+        {
+            "word": "la",
+            "start": 117.488,
+            "end": 117.608,
+            "confidence": 0.764
+        },
+        {
+            "word": "ocupamos",
+            "start": 117.668,
+            "end": 118.629,
+            "confidence": 0.919
+        },
+        {
+            "word": "porque",
+            "start": 118.829,
+            "end": 119.41,
+            "confidence": 0.756
+        },
+        {
+            "word": "tranca",
+            "start": 119.53,
+            "end": 120.251,
+            "confidence": 0.747
+        },
+        {
+            "word": "si",
+            "start": 120.271,
+            "end": 120.331,
+            "confidence": 0.46
+        },
+        {
+            "word": "es",
+            "start": 120.391,
+            "end": 120.511,
+            "confidence": 0.625
+        },
+        {
+            "word": "el",
+            "start": 120.571,
+            "end": 120.711,
+            "confidence": 0.782
+        },
+        {
+            "word": "rojo,",
+            "start": 120.771,
+            "end": 121.952,
+            "confidence": 0.726
+        },
+        {
+            "word": "siempre",
+            "start": 122.012,
+            "end": 122.392,
+            "confidence": 0.901
+        },
+        {
+            "word": "con",
+            "start": 122.512,
+            "end": 123.093,
+            "confidence": 0.858
+        },
+        {
+            "word": "el",
+            "start": 123.153,
+            "end": 123.233,
+            "confidence": 0.946
+        },
+        {
+            "word": "modo",
+            "start": 123.293,
+            "end": 123.533,
+            "confidence": 0.965
+        },
+        {
+            "word": "avi\u00f3n",
+            "start": 123.613,
+            "end": 125.015,
+            "confidence": 0.752
+        },
+        {
+            "word": "me",
+            "start": 125.035,
+            "end": 125.215,
+            "confidence": 0.858
+        },
+        {
+            "word": "la",
+            "start": 125.295,
+            "end": 125.415,
+            "confidence": 0.659
+        },
+        {
+            "word": "paso",
+            "start": 125.535,
+            "end": 126.276,
+            "confidence": 0.798
+        },
+        {
+            "word": "relajado.",
+            "start": 126.316,
+            "end": 127.717,
+            "confidence": 0.668
+        },
+        {
+            "word": "Instagram",
+            "start": 133.289,
+            "end": 134.291,
+            "confidence": 0.726
+        },
+        {
+            "word": "a",
+            "start": 134.331,
+            "end": 134.451,
+            "confidence": 0.713
+        },
+        {
+            "word": "reventar,",
+            "start": 134.531,
+            "end": 135.593,
+            "confidence": 0.808
+        },
+        {
+            "word": "pero",
+            "start": 135.753,
+            "end": 136.234,
+            "confidence": 0.906
+        },
+        {
+            "word": "no",
+            "start": 136.334,
+            "end": 136.635,
+            "confidence": 0.987
+        },
+        {
+            "word": "voy",
+            "start": 136.815,
+            "end": 137.256,
+            "confidence": 0.864
+        },
+        {
+            "word": "a",
+            "start": 137.336,
+            "end": 137.396,
+            "confidence": 0.893
+        },
+        {
+            "word": "contestar",
+            "start": 137.576,
+            "end": 138.598,
+            "confidence": 0.949
+        },
+        {
+            "word": "Me",
+            "start": 139.018,
+            "end": 139.159,
+            "confidence": 0.778
+        },
+        {
+            "word": "hice",
+            "start": 139.219,
+            "end": 139.459,
+            "confidence": 0.653
+        },
+        {
+            "word": "m\u00e1s",
+            "start": 139.519,
+            "end": 139.759,
+            "confidence": 0.86
+        },
+        {
+            "word": "solicitado,",
+            "start": 139.779,
+            "end": 141.001,
+            "confidence": 0.81
+        },
+        {
+            "word": "desde",
+            "start": 141.342,
+            "end": 141.702,
+            "confidence": 0.652
+        },
+        {
+            "word": "que",
+            "start": 141.742,
+            "end": 141.843,
+            "confidence": 0.527
+        },
+        {
+            "word": "cargo",
+            "start": 142.063,
+            "end": 142.544,
+            "confidence": 0.653
+        },
+        {
+            "word": "el",
+            "start": 142.604,
+            "end": 142.744,
+            "confidence": 0.762
+        },
+        {
+            "word": "bar\u00f3",
+            "start": 142.804,
+            "end": 143.105,
+            "confidence": 0.593
+        },
+        {
+            "word": "S\u00ed",
+            "start": 144.869,
+            "end": 145.509,
+            "confidence": 0.902
+        },
+        {
+            "word": "claro",
+            "start": 145.589,
+            "end": 145.889,
+            "confidence": 0.703
+        },
+        {
+            "word": "que",
+            "start": 145.93,
+            "end": 146.15,
+            "confidence": 0.3
+        },
+        {
+            "word": "el",
+            "start": 146.19,
+            "end": 146.29,
+            "confidence": 0.612
+        },
+        {
+            "word": "carrito",
+            "start": 146.37,
+            "end": 147.57,
+            "confidence": 0.788
+        },
+        {
+            "word": "s\u00ed",
+            "start": 147.75,
+            "end": 147.79,
+            "confidence": 0.23
+        },
+        {
+            "word": "es",
+            "start": 147.89,
+            "end": 147.97,
+            "confidence": 0.546
+        },
+        {
+            "word": "m\u00edo",
+            "start": 148.011,
+            "end": 148.551,
+            "confidence": 0.798
+        },
+        {
+            "word": "y",
+            "start": 149.011,
+            "end": 149.111,
+            "confidence": 0.84
+        },
+        {
+            "word": "aunque",
+            "start": 149.151,
+            "end": 149.431,
+            "confidence": 0.7
+        },
+        {
+            "word": "se",
+            "start": 149.551,
+            "end": 149.771,
+            "confidence": 0.847
+        },
+        {
+            "word": "mire",
+            "start": 149.831,
+            "end": 150.492,
+            "confidence": 0.836
+        },
+        {
+            "word": "carito",
+            "start": 150.572,
+            "end": 151.572,
+            "confidence": 0.816
+        },
+        {
+            "word": "me",
+            "start": 152.012,
+            "end": 152.193,
+            "confidence": 0.864
+        },
+        {
+            "word": "lo",
+            "start": 152.233,
+            "end": 152.413,
+            "confidence": 0.854
+        },
+        {
+            "word": "compre",
+            "start": 152.533,
+            "end": 153.213,
+            "confidence": 0.761
+        },
+        {
+            "word": "yo",
+            "start": 153.293,
+            "end": 154.033,
+            "confidence": 0.82
+        },
+        {
+            "word": "y",
+            "start": 154.774,
+            "end": 154.814,
+            "confidence": 0.721
+        },
+        {
+            "word": "apenas",
+            "start": 154.894,
+            "end": 155.514,
+            "confidence": 0.869
+        },
+        {
+            "word": "soy",
+            "start": 155.554,
+            "end": 156.094,
+            "confidence": 0.803
+        },
+        {
+            "word": "un",
+            "start": 156.154,
+            "end": 156.254,
+            "confidence": 0.856
+        },
+        {
+            "word": "morr\u00f3n",
+            "start": 156.315,
+            "end": 156.735,
+            "confidence": 0.852
+        },
+        {
+            "word": "ya",
+            "start": 157.095,
+            "end": 157.535,
+            "confidence": 0.92
+        },
+        {
+            "word": "saben",
+            "start": 157.575,
+            "end": 157.995,
+            "confidence": 0.758
+        },
+        {
+            "word": "que",
+            "start": 158.075,
+            "end": 158.275,
+            "confidence": 0.489
+        },
+        {
+            "word": "los",
+            "start": 158.315,
+            "end": 158.996,
+            "confidence": 0.565
+        },
+        {
+            "word": "jefes",
+            "start": 159.036,
+            "end": 159.536,
+            "confidence": 0.69
+        },
+        {
+            "word": "me",
+            "start": 159.556,
+            "end": 159.636,
+            "confidence": 0.444
+        },
+        {
+            "word": "estima",
+            "start": 159.676,
+            "end": 160.997,
+            "confidence": 0.664
+        },
+        {
+            "word": "saben",
+            "start": 161.097,
+            "end": 161.497,
+            "confidence": 0.819
+        },
+        {
+            "word": "que",
+            "start": 161.557,
+            "end": 161.717,
+            "confidence": 0.69
+        },
+        {
+            "word": "cargo",
+            "start": 162.097,
+            "end": 162.518,
+            "confidence": 0.878
+        },
+        {
+            "word": "la",
+            "start": 162.578,
+            "end": 162.698,
+            "confidence": 0.86
+        },
+        {
+            "word": "paca",
+            "start": 162.818,
+            "end": 163.658,
+            "confidence": 0.852
+        },
+        {
+            "word": "y",
+            "start": 163.998,
+            "end": 164.118,
+            "confidence": 0.654
+        },
+        {
+            "word": "esa",
+            "start": 164.198,
+            "end": 164.378,
+            "confidence": 0.717
+        },
+        {
+            "word": "nunca",
+            "start": 164.518,
+            "end": 165.219,
+            "confidence": 0.807
+        },
+        {
+            "word": "se",
+            "start": 165.239,
+            "end": 165.459,
+            "confidence": 0.76
+        },
+        {
+            "word": "termina",
+            "start": 165.539,
+            "end": 166.619,
+            "confidence": 0.857
+        },
+        {
+            "word": "No",
+            "start": 194.183,
+            "end": 194.263,
+            "confidence": 0.498
+        },
+        {
+            "word": "voy",
+            "start": 194.364,
+            "end": 194.584,
+            "confidence": 0.703
+        },
+        {
+            "word": "a",
+            "start": 194.745,
+            "end": 194.845,
+            "confidence": 0.652
+        },
+        {
+            "word": "reventarme,",
+            "start": 194.945,
+            "end": 196.068,
+            "confidence": 0.696
+        },
+        {
+            "word": "no",
+            "start": 196.088,
+            "end": 196.349,
+            "confidence": 0.787
+        },
+        {
+            "word": "voy",
+            "start": 196.409,
+            "end": 197.331,
+            "confidence": 0.841
+        },
+        {
+            "word": "a",
+            "start": 197.392,
+            "end": 197.452,
+            "confidence": 0.789
+        },
+        {
+            "word": "pensar.",
+            "start": 197.953,
+            "end": 198.695,
+            "confidence": 0.796
+        }
+    ]
+}
