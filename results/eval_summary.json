@@ -1,0 +1,314 @@
+{
+  "notes": [
+    "Reference lyrics are fetched from LRCLIB by id and are not stored in this repository.",
+    "Timestamp metrics are approximate line-level checks against synced lyrics, not manual word-level annotation.",
+    "Model confidence is reported separately and is not treated as accuracy."
+  ],
+  "evaluated_tracks": 8,
+  "tracks": [
+    {
+      "result_file": "post_malone_rockstar_en.json",
+      "track": "Post Malone & 21 Savage - rockstar",
+      "language": "en",
+      "model": "WHISPER_MODEL=small",
+      "reference": {
+        "provider": "lrclib",
+        "id": 8988813,
+        "trackName": "rockstar",
+        "artistName": "Post Malone",
+        "has_synced_lyrics": true
+      },
+      "text_metrics": {
+        "wer": 0.3728,
+        "cer": 0.2588,
+        "reference_words": 515,
+        "hypothesis_words": 449,
+        "substitutions": 108,
+        "deletions": 75,
+        "insertions": 9,
+        "insertions_per_hypothesis_word": 0.02
+      },
+      "timestamp_metrics": {
+        "matched_lines": 48,
+        "total_reference_lines": 64,
+        "median_abs_error_sec": 1.408,
+        "mean_abs_error_sec": 33.431,
+        "precision_at_1s": 0.3333,
+        "precision_at_3s": 0.6667
+      },
+      "confidence_diagnostics": {
+        "mean_word_confidence": 0.6308,
+        "low_confidence_share_lt_0_5": 0.2415
+      },
+      "repeat_diagnostics": {
+        "adjacent_repeated_4gram_count": 0
+      }
+    },
+    {
+      "result_file": "peso_pluma_anitta_bellakeo_es.json",
+      "track": "Peso Pluma & Anitta - BELLAKEO",
+      "language": "es",
+      "model": "WHISPER_MODEL=small",
+      "reference": {
+        "provider": "lrclib",
+        "id": 9133953,
+        "trackName": "BELLAKEO",
+        "artistName": "Peso Pluma & Anitta",
+        "has_synced_lyrics": true
+      },
+      "text_metrics": {
+        "wer": 0.9242,
+        "cer": 0.6055,
+        "reference_words": 396,
+        "hypothesis_words": 430,
+        "substitutions": 276,
+        "deletions": 28,
+        "insertions": 62,
+        "insertions_per_hypothesis_word": 0.1442
+      },
+      "timestamp_metrics": {
+        "matched_lines": 31,
+        "total_reference_lines": 64,
+        "median_abs_error_sec": 2.722,
+        "mean_abs_error_sec": 22.777,
+        "precision_at_1s": 0.1935,
+        "precision_at_3s": 0.5484
+      },
+      "confidence_diagnostics": {
+        "mean_word_confidence": 0.4222,
+        "low_confidence_share_lt_0_5": 0.5698
+      },
+      "repeat_diagnostics": {
+        "adjacent_repeated_4gram_count": 49
+      }
+    },
+    {
+      "result_file": "peso_pluma_bruce_wayne_es.json",
+      "track": "Peso Pluma - BRUCE WAYNE",
+      "language": "es",
+      "model": "WHISPER_MODEL=small",
+      "reference": {
+        "provider": "lrclib",
+        "id": 31279801,
+        "trackName": "BRUCE WAYNE",
+        "artistName": "Peso Pluma",
+        "has_synced_lyrics": true
+      },
+      "text_metrics": {
+        "wer": 0.3457,
+        "cer": 0.1342,
+        "reference_words": 243,
+        "hypothesis_words": 236,
+        "substitutions": 59,
+        "deletions": 16,
+        "insertions": 9,
+        "insertions_per_hypothesis_word": 0.0381
+      },
+      "timestamp_metrics": {
+        "matched_lines": 25,
+        "total_reference_lines": 33,
+        "median_abs_error_sec": 1.582,
+        "mean_abs_error_sec": 24.817,
+        "precision_at_1s": 0.36,
+        "precision_at_3s": 0.64
+      },
+      "confidence_diagnostics": {
+        "mean_word_confidence": 0.6255,
+        "low_confidence_share_lt_0_5": 0.2034
+      },
+      "repeat_diagnostics": {
+        "adjacent_repeated_4gram_count": 0
+      }
+    },
+    {
+      "result_file": "peso_pluma_solicitado_es.json",
+      "track": "Peso Pluma - SOLICITADO",
+      "language": "es",
+      "model": "WHISPER_MODEL=small",
+      "reference": {
+        "provider": "lrclib",
+        "id": 29785336,
+        "trackName": "SOLICITADO",
+        "artistName": "Peso Pluma",
+        "has_synced_lyrics": true
+      },
+      "text_metrics": {
+        "wer": 0.2279,
+        "cer": 0.119,
+        "reference_words": 215,
+        "hypothesis_words": 207,
+        "substitutions": 33,
+        "deletions": 12,
+        "insertions": 4,
+        "insertions_per_hypothesis_word": 0.0193
+      },
+      "timestamp_metrics": {
+        "matched_lines": 39,
+        "total_reference_lines": 44,
+        "median_abs_error_sec": 2.6,
+        "mean_abs_error_sec": 39.617,
+        "precision_at_1s": 0.2821,
+        "precision_at_3s": 0.5897
+      },
+      "confidence_diagnostics": {
+        "mean_word_confidence": 0.7429,
+        "low_confidence_share_lt_0_5": 0.0676
+      },
+      "repeat_diagnostics": {
+        "adjacent_repeated_4gram_count": 0
+      }
+    },
+    {
+      "result_file": "coeur_de_pirate_place_de_la_republique_fr.json",
+      "track": "Coeur de pirate - Place de la Republique",
+      "language": "fr",
+      "model": "WHISPER_MODEL=small",
+      "reference": {
+        "provider": "lrclib",
+        "id": 12174101,
+        "trackName": "Place de la République",
+        "artistName": "Coeur de pirate",
+        "has_synced_lyrics": true
+      },
+      "text_metrics": {
+        "wer": 0.364,
+        "cer": 0.1882,
+        "reference_words": 228,
+        "hypothesis_words": 228,
+        "substitutions": 61,
+        "deletions": 11,
+        "insertions": 11,
+        "insertions_per_hypothesis_word": 0.0482
+      },
+      "timestamp_metrics": {
+        "matched_lines": 26,
+        "total_reference_lines": 33,
+        "median_abs_error_sec": 3.905,
+        "mean_abs_error_sec": 30.491,
+        "precision_at_1s": 0.3462,
+        "precision_at_3s": 0.4231
+      },
+      "confidence_diagnostics": {
+        "mean_word_confidence": 0.7109,
+        "low_confidence_share_lt_0_5": 0.1272
+      },
+      "repeat_diagnostics": {
+        "adjacent_repeated_4gram_count": 0
+      }
+    },
+    {
+      "result_file": "miyagi_last_of_us_ru.json",
+      "track": "Miyagi & Endspiel - Last of Us",
+      "language": "ru",
+      "model": "WHISPER_MODEL=small",
+      "reference": {
+        "provider": "lrclib",
+        "id": 6974852,
+        "trackName": "Last of us",
+        "artistName": "MiyaGi & Endspiel",
+        "has_synced_lyrics": true
+      },
+      "text_metrics": {
+        "wer": 0.4848,
+        "cer": 0.2426,
+        "reference_words": 328,
+        "hypothesis_words": 293,
+        "substitutions": 108,
+        "deletions": 43,
+        "insertions": 8,
+        "insertions_per_hypothesis_word": 0.0273
+      },
+      "timestamp_metrics": {
+        "matched_lines": 34,
+        "total_reference_lines": 51,
+        "median_abs_error_sec": 1.341,
+        "mean_abs_error_sec": 16.317,
+        "precision_at_1s": 0.4118,
+        "precision_at_3s": 0.6471
+      },
+      "confidence_diagnostics": {
+        "mean_word_confidence": 0.7474,
+        "low_confidence_share_lt_0_5": 0.0954
+      },
+      "repeat_diagnostics": {
+        "adjacent_repeated_4gram_count": 4
+      }
+    },
+    {
+      "result_file": "bi_2_unknown_ru.json",
+      "track": "Bi-2 - Polkovniku nikto ne pishet",
+      "language": "ru",
+      "model": "WHISPER_MODEL=small",
+      "reference": {
+        "provider": "lrclib",
+        "id": 17244251,
+        "trackName": "Полковнику Никто Не Пишет",
+        "artistName": "Би-2",
+        "has_synced_lyrics": true
+      },
+      "text_metrics": {
+        "wer": 0.5104,
+        "cer": 0.2107,
+        "reference_words": 96,
+        "hypothesis_words": 73,
+        "substitutions": 26,
+        "deletions": 23,
+        "insertions": 0,
+        "insertions_per_hypothesis_word": 0.0
+      },
+      "timestamp_metrics": {
+        "matched_lines": 7,
+        "total_reference_lines": 31,
+        "median_abs_error_sec": 6.315,
+        "mean_abs_error_sec": 48.362,
+        "precision_at_1s": 0.0,
+        "precision_at_3s": 0.1429
+      },
+      "confidence_diagnostics": {
+        "mean_word_confidence": 0.8015,
+        "low_confidence_share_lt_0_5": 0.0548
+      },
+      "repeat_diagnostics": {
+        "adjacent_repeated_4gram_count": 1
+      }
+    },
+    {
+      "result_file": "pharaoh_ru.json",
+      "track": "PHARAOH - Diko, naprimer",
+      "language": "ru",
+      "model": "WHISPER_MODEL=small",
+      "reference": {
+        "provider": "lrclib",
+        "id": 7162626,
+        "trackName": "Дико, например",
+        "artistName": "PHARAOH",
+        "has_synced_lyrics": true
+      },
+      "text_metrics": {
+        "wer": 0.4734,
+        "cer": 0.2942,
+        "reference_words": 319,
+        "hypothesis_words": 271,
+        "substitutions": 83,
+        "deletions": 58,
+        "insertions": 10,
+        "insertions_per_hypothesis_word": 0.0369
+      },
+      "timestamp_metrics": {
+        "matched_lines": 24,
+        "total_reference_lines": 40,
+        "median_abs_error_sec": 0.506,
+        "mean_abs_error_sec": 4.202,
+        "precision_at_1s": 0.6667,
+        "precision_at_3s": 0.875
+      },
+      "confidence_diagnostics": {
+        "mean_word_confidence": 0.7358,
+        "low_confidence_share_lt_0_5": 0.1236
+      },
+      "repeat_diagnostics": {
+        "adjacent_repeated_4gram_count": 0
+      }
+    }
+  ]
+}
